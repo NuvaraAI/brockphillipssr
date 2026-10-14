@@ -1,0 +1,86 @@
+{
+  "record_type": "course_completion",
+  "review_date": "2026-10-14",
+  "records": [
+    {
+      "title": "CompTIA A+ Core 2 (220-1202)",
+      "date": "2025-12-23",
+      "recipient": "Brock Kristofer Phillips",
+      "issuer": "uCertify",
+      "credential_type": "course_completion",
+      "public_filename": "ucertify-comptia-a-plus-core-2-2025-12-23.pdf",
+      "preview_filename": "ucertify-comptia-a-plus-core-2-2025-12-23.png",
+      "public_sha256": "d3e6360c45343970922fefeb66fc7e86e69e6cf242cf13f9140878f3134173d0"
+    },
+    {
+      "title": "Computer Hardware Basics",
+      "date": "2026-01-18",
+      "recipient": "Brock Phillips",
+      "issuer": "Cisco Networking Academy",
+      "credential_type": "course_completion",
+      "public_filename": "cisco-computer-hardware-basics-2026-01-18.pdf",
+      "preview_filename": "cisco-computer-hardware-basics-2026-01-18.png",
+      "public_sha256": "c1ae19007372965c44c66a3a2c42a5f54c181b6e00aa1a245234fe08931fc229"
+    },
+    {
+      "title": "CompTIA Linux+",
+      "date": "2026-06-01",
+      "recipient": "Brock Kristofer Phillips",
+      "issuer": "uCertify",
+      "credential_type": "course_completion",
+      "public_filename": "ucertify-comptia-linux-plus-2026-06-01.pdf",
+      "preview_filename": "ucertify-comptia-linux-plus-2026-06-01.png",
+      "public_sha256": "dae2471b36e2eeeffbf53412776449e925dc78fcc92df7245bf2f51e6ec3858a"
+    },
+    {
+      "title": "CompTIA Security+ (SY0-701)",
+      "date": "2026-08-06",
+      "recipient": "Brock Kristofer Phillips",
+      "issuer": "uCertify",
+      "credential_type": "course_completion",
+      "public_filename": "ucertify-comptia-security-plus-2026-08-06.pdf",
+      "preview_filename": "ucertify-comptia-security-plus-2026-08-06.png",
+      "public_sha256": "fe8402172de8b56cbd09f7c4ec0649e1952e3d4488646537d140dce4de77e74e"
+    },
+    {
+      "title": "CompTIA Server+",
+      "date": "2026-10-01",
+      "recipient": "Brock Kristofer Phillips",
+      "issuer": "uCertify",
+      "credential_type": "course_completion",
+      "public_filename": "ucertify-comptia-server-plus-2026-10-01.pdf",
+      "preview_filename": "ucertify-comptia-server-plus-2026-10-01.png",
+      "public_sha256": "ff0912fb70e9883dc9df4107edcd349f13ca0a3b9e8fbaa9ba443a22986c5091"
+    },
+    {
+      "title": "AZ-900: Microsoft Azure Fundamentals Certification Training",
+      "date": "2026-10-01",
+      "recipient": "Brock Kristofer Phillips",
+      "issuer": "uCertify",
+      "credential_type": "course_completion",
+      "public_filename": "ucertify-azure-fundamentals-training-2026-10-01.pdf",
+      "preview_filename": "ucertify-azure-fundamentals-training-2026-10-01.png",
+      "public_sha256": "d9308877056f54306e88915765a2defb429a1cbd998cbe0046aa88a440d21c00"
+    },
+    {
+      "title": "CompTIA CYSA+ (CS0-003)",
+      "date": "2026-10-03",
+      "recipient": "Brock Kristofer Phillips",
+      "issuer": "uCertify",
+      "credential_type": "course_completion",
+      "public_filename": "ucertify-comptia-cysa-plus-2026-10-03.pdf",
+      "preview_filename": "ucertify-comptia-cysa-plus-2026-10-03.png",
+      "public_sha256": "39abed6f188941ee9e516881c55dc0c64d5940bbd465950a352d8b2160a5e5c6"
+    },
+    {
+      "title": "AWS Certified Cloud Practitioner (CLF-C02)",
+      "date": "2026-10-14",
+      "recipient": "Brock Kristofer Phillips",
+      "issuer": "uCertify",
+      "credential_type": "course_completion",
+      "public_filename": "ucertify-aws-cloud-practitioner-training-2026-10-14.pdf",
+      "preview_filename": "ucertify-aws-cloud-practitioner-training-2026-10-14.png",
+      "public_sha256": "5f2f9cb3a628922711090f9ad50745ccabc429e912f4b7e22368de06b57616d7"
+    }
+  ]
+}

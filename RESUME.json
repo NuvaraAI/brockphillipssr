@@ -1,0 +1,194 @@
+{
+  "name": "Brock K. Phillips Sr.",
+  "headline": "Nuvara founder · U.S. Army veteran · Systems and workflow builder",
+  "updated": "2026-10-14",
+  "professionalSummary": "Founder of Nuvara and U.S. Army veteran with a background in counterintelligence, federal benefits review, equipment maintenance, and youth programs. I bring evidence analysis, clear documentation, and operational judgment to human-directed AI projects, technical systems, and practical learning tools. I direct product development and use AI assistance for coding, drafting, analysis, and testing, with human review and documented checks.",
+  "experience": [
+    {
+      "title": "Founder and Principal",
+      "organization": "Nuvara",
+      "period": "2025–present",
+      "highlights": [
+        "Translate practical needs into AI-assisted web systems, documented workflows, and learning tools.",
+        "Direct product scope, implementation, technical documentation, and quality review while maintaining human control over consequential decisions.",
+        "Organize source evidence, operating procedures, and project status so completed work, prototypes, and remaining dependencies are clear."
+      ]
+    },
+    {
+      "title": "Veterans Service Representative",
+      "organization": "U.S. Department of Veterans Affairs",
+      "period": "February 2020–present",
+      "highlights": [
+        "Review federal benefits evidence, proposed actions, and notices for technical accuracy, completeness, and procedural compliance.",
+        "Reconcile records, identify conflicting or missing information, and document corrective guidance needed to resolve deficiencies.",
+        "Maintain organized case documentation and protect confidential information during review and quality oversight."
+      ]
+    },
+    {
+      "title": "Youth Program Assistant / Youth Sports and Fitness Specialist",
+      "organization": "Department of the Army",
+      "period": "2014–2020",
+      "highlights": [
+        "Coordinated sports, fitness, and youth activities, including schedules, equipment, program records, and accountability procedures.",
+        "Monitored safety practices and documented program requirements for supervisory review.",
+        "Worked with families and program staff to provide clear service and apply program standards consistently."
+      ]
+    },
+    {
+      "title": "Sergeant · Counterintelligence and Utilities Equipment Repair",
+      "organization": "U.S. Army",
+      "period": "July 1997–March 2014 military service",
+      "highlights": [
+        "Served 3 years and 1 month in counterintelligence; earlier utilities equipment repair specialty totaled 13 years and 1 month.",
+        "Conducted investigative and analytical inquiries, reconciled information from multiple sources, and prepared written reports and briefings.",
+        "Supported equipment maintenance, safety, inventory, operations, and personnel training."
+      ]
+    }
+  ],
+  "selectedProjects": [
+    {
+      "title": "Nuvara platform and Core / HALO workflows",
+      "description": "Directed a public website and private AI operating workflows with task policies, evidence receipts, diagnostics, and documented release boundaries.",
+      "scope": "Public website live; private systems continue through separate readiness checks.",
+      "caseSlug": "nuvara-platform"
+    },
+    {
+      "title": "CyberTex infrastructure and cloud capstone",
+      "description": "Led lab direction and evidence organization for Proxmox, Windows Server, Active Directory, DNS/DHCP, and team cloud architecture documentation.",
+      "scope": "Documented lab observations and architecture deliverables; final live application integration remains separate.",
+      "caseSlug": "cybertex-infrastructure"
+    },
+    {
+      "title": "AI² Writing Studio and small-business tools",
+      "description": "Directed AI-assisted learning and intake workflows around learner reasoning, input validation, persistent records, and human review.",
+      "scope": "Implemented components and previews; learner acceptance and customer cutover have separate requirements.",
+      "caseSlug": "ai2-learning"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Maryland Global Campus, formerly UMUC",
+      "status": "Degree completed",
+      "title": "Associate of Arts",
+      "description": "General Studies, Criminal Justice Curriculum",
+      "date": "Awarded May 2016"
+    },
+    {
+      "institution": "CyberTex Institute of Technology",
+      "status": "Training in progress",
+      "title": "Network Engineer training",
+      "description": "Infrastructure, networking, and cloud coursework",
+      "date": "In progress as of October 2026"
+    }
+  ],
+  "skills": {
+    "Analysis and operations": [
+      "Evidence review",
+      "Investigative interviewing",
+      "Record reconciliation",
+      "Procedural compliance",
+      "Written findings",
+      "Program coordination"
+    ],
+    "Product and AI workflows": [
+      "Product direction",
+      "Human-directed AI development",
+      "Requirements and acceptance criteria",
+      "Technical documentation",
+      "Source tracking",
+      "Regression review"
+    ],
+    "Technical project practice": [
+      "Proxmox VE",
+      "Linux",
+      "Windows Server / Active Directory",
+      "DNS / DHCP",
+      "Virtualization",
+      "Git",
+      "AI-assisted JavaScript / TypeScript / Python projects",
+      "Responsive web delivery"
+    ]
+  },
+  "training": {
+    "recordType": "course_completion",
+    "note": "These records document completed courses through uCertify and Cisco Networking Academy. They do not establish vendor certification exam credentials.",
+    "records": [
+      {
+        "title": "CompTIA A+ Core 2 (220-1202)",
+        "provider": "uCertify",
+        "date": "2025-12-23",
+        "file": "certificates/files/ucertify-comptia-a-plus-core-2-2025-12-23.pdf"
+      },
+      {
+        "title": "Computer Hardware Basics",
+        "provider": "Cisco Networking Academy",
+        "date": "2026-01-18",
+        "file": "certificates/files/cisco-computer-hardware-basics-2026-01-18.pdf"
+      },
+      {
+        "title": "CompTIA Linux+",
+        "provider": "uCertify",
+        "date": "2026-06-01",
+        "file": "certificates/files/ucertify-comptia-linux-plus-2026-06-01.pdf"
+      },
+      {
+        "title": "CompTIA Security+ (SY0-701)",
+        "provider": "uCertify",
+        "date": "2026-08-06",
+        "file": "certificates/files/ucertify-comptia-security-plus-2026-08-06.pdf"
+      },
+      {
+        "title": "CompTIA Server+",
+        "provider": "uCertify",
+        "date": "2026-10-01",
+        "file": "certificates/files/ucertify-comptia-server-plus-2026-10-01.pdf"
+      },
+      {
+        "title": "AZ-900: Microsoft Azure Fundamentals Certification Training",
+        "provider": "uCertify",
+        "date": "2026-10-01",
+        "file": "certificates/files/ucertify-azure-fundamentals-training-2026-10-01.pdf"
+      },
+      {
+        "title": "CompTIA CYSA+ (CS0-003)",
+        "provider": "uCertify",
+        "date": "2026-10-03",
+        "file": "certificates/files/ucertify-comptia-cysa-plus-2026-10-03.pdf"
+      },
+      {
+        "title": "AWS Certified Cloud Practitioner (CLF-C02) training",
+        "provider": "uCertify",
+        "date": "2026-10-14",
+        "file": "certificates/files/ucertify-aws-cloud-practitioner-training-2026-10-14.pdf"
+      }
+    ]
+  },
+  "publication": {
+    "title": "The Crowned One",
+    "subtitle": "What We Lost While Worshipping Greatness - A Reflection on Culture, Sports, and Identity",
+    "format": "Paperback",
+    "published": "2026-10-11",
+    "url": "https://www.amazon.com/dp/B0HMYB2YLW"
+  },
+  "publicLinks": [
+    {
+      "label": "Portfolio",
+      "url": "https://nuvaraai.github.io/brockphillipssr/"
+    },
+    {
+      "label": "Nuvara",
+      "url": "https://nuvaraai.com/"
+    },
+    {
+      "label": "Contact",
+      "url": "https://nuvaraai.com/contact/"
+    },
+    {
+      "label": "Email",
+      "url": "mailto:brock@nuvaraai.com"
+    }
+  ],
+  "download": "docs/brock-phillips-sr-resume.pdf",
+  "sourceNote": "Public summary derived from Brock_Phillips_Master_Resume_Updated_2026-10-14.docx, the reviewed project portfolio, and course-completion records.",
+  "publicEmail": "brock@nuvaraai.com"
+}

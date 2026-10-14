@@ -1,0 +1,405 @@
+{
+  "reviewDate": "2026-10-14",
+  "intro": {
+    "name": "Brock K. Phillips Sr.",
+    "role": "Nuvara founder · U.S. Army veteran · Systems builder · Author",
+    "eyebrow": "Technology with a human purpose",
+    "headline": "I build useful systems. People stay in charge.",
+    "description": "I turn practical problems into AI-assisted software, documented workflows, and learning tools. My work connects infrastructure, responsible AI, education, business operations, research, and writing.",
+    "background": "Army counterintelligence, equipment maintenance, federal service, and youth programs taught me to understand the problem, organize the evidence, and verify the result.",
+    "roleDisclosure": "I set the direction, define requirements, and lead review. AI assistants support coding, drafting, analysis, and testing. Each case study explains my contribution and the current state of the work.",
+    "stats": [
+      {
+        "value": "10",
+        "label": "project case studies"
+      },
+      {
+        "value": "8",
+        "label": "completed training courses"
+      },
+      {
+        "value": "1",
+        "label": "published paperback"
+      }
+    ]
+  },
+  "projectsIntro": "From network labs to responsible AI tools, these projects show how I connect a practical need to a documented result.",
+  "categories": [
+    {
+      "id": "systems",
+      "label": "AI & systems"
+    },
+    {
+      "id": "infrastructure",
+      "label": "Infrastructure"
+    },
+    {
+      "id": "learning",
+      "label": "Learning"
+    },
+    {
+      "id": "business",
+      "label": "Business"
+    },
+    {
+      "id": "media",
+      "label": "Writing & media"
+    },
+    {
+      "id": "research",
+      "label": "Research"
+    }
+  ],
+  "projects": [
+    {
+      "slug": "nuvara-platform",
+      "title": "Nuvara platform",
+      "category": "systems",
+      "description": "A responsive public website connecting AI, learning, cybersecurity, media, and business work through a shared focus on human authority.",
+      "status": "Public website live",
+      "highlights": [
+        "Organized the product areas and directed AI-assisted implementation and review.",
+        "Created public navigation, research content, inquiry intake, and a Proof Room.",
+        "Documented responsive, accessibility, route, and privacy-boundary checks."
+      ],
+      "tech": [
+        "JavaScript",
+        "CSS",
+        "Responsive design",
+        "Information architecture"
+      ],
+      "caseSource": "content/projects/nuvara-platform.md",
+      "link": "https://nuvaraai.com/"
+    },
+    {
+      "slug": "core-halo",
+      "title": "Core, HALO & local workforce",
+      "category": "systems",
+      "description": "Private AI operations tools that connect task execution to policies, human decisions, diagnostic evidence, and recorded outcomes.",
+      "status": "Private implementations",
+      "highlights": [
+        "Directed task queues, project registration, evidence receipts, and memory-review workflows.",
+        "Developed bounded local analysis tools and a bridge to Core execution.",
+        "Preserved dated acceptance records, file-integrity checks, and local AI quality findings."
+      ],
+      "tech": [
+        "TypeScript",
+        "Node.js",
+        "Fastify",
+        "SQLite",
+        "Ollama",
+        "Vitest"
+      ],
+      "caseSource": "content/projects/core-halo.md"
+    },
+    {
+      "slug": "ai2-learning",
+      "title": "AI² & Writing Studio",
+      "category": "learning",
+      "description": "Learning and writing workflows built around original attempts, source evidence, reflection, version history, and human review.",
+      "status": "Components & prototypes",
+      "highlights": [
+        "Defined assignment policies, reasoning expectations, attribution, and learner reflection.",
+        "Implemented version saves, conflict detection, export, pause, and cancellation controls.",
+        "Retained 15 non-AI real-server checks; complete learner acceptance remains open."
+      ],
+      "tech": [
+        "Node.js",
+        "Learning design",
+        "Versioned evidence",
+        "Source attribution"
+      ],
+      "caseSource": "content/projects/ai2-learning.md"
+    },
+    {
+      "slug": "cybertex-infrastructure",
+      "title": "CyberTex infrastructure & cloud capstone",
+      "category": "infrastructure",
+      "description": "Server lab direction and team cloud architecture work spanning virtualization, directory services, recovery evidence, and technical handover.",
+      "status": "Documented lab & architecture work",
+      "highlights": [
+        "Led lab direction and evidence organization; served as Design & Standards / Cloud Architect.",
+        "Documented Proxmox networking, Active Directory/DNS health, DHCP readback, and rollback.",
+        "Produced AWS architecture standards, API contracts, responsibility records, and runbook criteria."
+      ],
+      "tech": [
+        "Proxmox VE",
+        "Windows Server",
+        "Linux",
+        "AD DS",
+        "DNS/DHCP",
+        "AWS"
+      ],
+      "caseSource": "content/projects/cybertex-infrastructure.md"
+    },
+    {
+      "slug": "soho-network",
+      "title": "SOHO departmental network",
+      "category": "infrastructure",
+      "description": "A three-department network simulation connecting VLAN design, subnet planning, trunking, and observable gateway tests.",
+      "status": "Packet Tracer simulation",
+      "highlights": [
+        "Designed three departmental VLANs and a /26 subnet plan.",
+        "Used a Cisco 2911 router, Cisco 2960 switch, and router-on-a-stick routing.",
+        "Retained three gateway ping checks, each showing four replies and zero lost packets."
+      ],
+      "tech": [
+        "Cisco Packet Tracer",
+        "VLANs",
+        "Subnetting",
+        "Routing",
+        "DHCP planning"
+      ],
+      "caseSource": "content/projects/soho-network.md",
+      "image": "assets/soho-network.png",
+      "imageAlt": "Illustrated three-department VLAN topology reconstructed from the reviewed project design"
+    },
+    {
+      "slug": "lab-guide",
+      "title": "Nuvara Lab Guide",
+      "category": "systems",
+      "description": "A signed local distribution and activation kit designed to verify packages, protect activation material, and keep publisher secrets out of the customer package.",
+      "status": "Supervised macOS pilot",
+      "highlights": [
+        "Directed signed manifests, hash allowlists, encrypted activation, and device-key checks.",
+        "Built repeatable request, issuance, activation, installation, and status operations.",
+        "Retained eight validation checks including a disposable CLI journey; a second device was simulated."
+      ],
+      "tech": [
+        "Node.js",
+        "Python",
+        "Ed25519",
+        "Release integrity",
+        "CLI workflows"
+      ],
+      "caseSource": "content/projects/lab-guide.md"
+    },
+    {
+      "slug": "business-tools",
+      "title": "Small-business operating tools",
+      "category": "business",
+      "description": "Two preview implementations translating menu operations, inquiry records, and service-request planning into clear customer and owner workflows.",
+      "status": "Two preview implementations",
+      "highlights": [
+        "Directed a responsive food-business website with a protected, persistent owner workspace.",
+        "Implemented consent, date validation, retry handling, and recorded payment-state summaries.",
+        "Built a dual-service planner with conditional fields, editable summaries, copy, and text download."
+      ],
+      "tech": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "D1",
+        "Input validation",
+        "Responsive design"
+      ],
+      "caseSource": "content/projects/business-tools.md"
+    },
+    {
+      "slug": "nuvara-media",
+      "title": "Nuvara Media",
+      "category": "media",
+      "description": "An editorial and production workflow connecting source records, rights, reviewed versions, local rendering, and publication decisions.",
+      "status": "Private implementation in development",
+      "highlights": [
+        "Defined editorial direction and directed newsroom and production implementation.",
+        "Connected scripts, sources, rights, corrections, and provider receipts to production records.",
+        "Built resumable local rendering with captions, provenance, cancellation, and resource controls."
+      ],
+      "tech": [
+        "TypeScript",
+        "SQLite",
+        "FFmpeg",
+        "MLX Whisper",
+        "Qwen",
+        "Provenance"
+      ],
+      "caseSource": "content/projects/nuvara-media.md"
+    },
+    {
+      "slug": "research-community",
+      "title": "Research & community planning",
+      "category": "research",
+      "description": "Research frameworks, source registers, manuscript drafts, and planning proposals connecting education, community needs, and technical organization.",
+      "status": "Research artifacts & proposals",
+      "highlights": [
+        "Developed a coastal research agenda and framework for accountable source and claim review.",
+        "Created manuscript drafts, evaluation plans, pilot packets, and workflow proposals.",
+        "Delivered a community planning packet, retained recipient feedback, and submitted a grant application."
+      ],
+      "tech": [
+        "Research design",
+        "Source review",
+        "Proposal writing",
+        "Technical documentation"
+      ],
+      "caseSource": "content/projects/research-community.md"
+    },
+    {
+      "slug": "the-crowned-one",
+      "title": "The Crowned One",
+      "category": "media",
+      "description": "My independently published paperback examines sports culture, identity, admiration, mentorship, and responsibility.",
+      "status": "Published paperback",
+      "highlights": [
+        "Provided the authorial direction and personal perspective, with AI-assisted editing and preparation.",
+        "Completed manuscript organization, print preparation, cover review, and paperback publication.",
+        "Published October 11, 2026; the public listing records 196 pages."
+      ],
+      "tech": [
+        "Long-form writing",
+        "Editorial direction",
+        "Print preparation",
+        "Cultural analysis"
+      ],
+      "caseSource": "content/projects/the-crowned-one.md",
+      "link": "https://www.amazon.com/dp/B0HMYB2YLW",
+      "image": "assets/the-crowned-one-cover.jpg",
+      "imageAlt": "The Crowned One by Brock K. Phillips Sr., paperback cover with generated artwork"
+    }
+  ],
+  "training": {
+    "title": "Continued learning. Documented completion.",
+    "description": "Eight completed courses through uCertify and Cisco Networking Academy, spanning hardware, Linux, security, servers, and cloud fundamentals.",
+    "credentialNote": "These records document course completion. Vendor certification exams and professional credentials are separate.",
+    "sharingNote": "Certificate identifiers are removed from the shared copies. Issuer, recipient, course title, and completion date remain visible."
+  },
+  "certificates": [
+    {
+      "title": "CompTIA A+ Core 2 (220-1202)",
+      "date": "2025-12-23",
+      "provider": "uCertify",
+      "recipient": "Brock Kristofer Phillips",
+      "credentialType": "course_completion",
+      "file": "certificates/files/ucertify-comptia-a-plus-core-2-2025-12-23.pdf",
+      "preview": "certificates/previews/ucertify-comptia-a-plus-core-2-2025-12-23.png",
+      "sha256": "d3e6360c45343970922fefeb66fc7e86e69e6cf242cf13f9140878f3134173d0"
+    },
+    {
+      "title": "Computer Hardware Basics",
+      "date": "2026-01-18",
+      "provider": "Cisco Networking Academy",
+      "recipient": "Brock Phillips",
+      "credentialType": "course_completion",
+      "file": "certificates/files/cisco-computer-hardware-basics-2026-01-18.pdf",
+      "preview": "certificates/previews/cisco-computer-hardware-basics-2026-01-18.png",
+      "sha256": "c1ae19007372965c44c66a3a2c42a5f54c181b6e00aa1a245234fe08931fc229"
+    },
+    {
+      "title": "CompTIA Linux+",
+      "date": "2026-06-01",
+      "provider": "uCertify",
+      "recipient": "Brock Kristofer Phillips",
+      "credentialType": "course_completion",
+      "file": "certificates/files/ucertify-comptia-linux-plus-2026-06-01.pdf",
+      "preview": "certificates/previews/ucertify-comptia-linux-plus-2026-06-01.png",
+      "sha256": "dae2471b36e2eeeffbf53412776449e925dc78fcc92df7245bf2f51e6ec3858a"
+    },
+    {
+      "title": "CompTIA Security+ (SY0-701)",
+      "date": "2026-08-06",
+      "provider": "uCertify",
+      "recipient": "Brock Kristofer Phillips",
+      "credentialType": "course_completion",
+      "file": "certificates/files/ucertify-comptia-security-plus-2026-08-06.pdf",
+      "preview": "certificates/previews/ucertify-comptia-security-plus-2026-08-06.png",
+      "sha256": "fe8402172de8b56cbd09f7c4ec0649e1952e3d4488646537d140dce4de77e74e"
+    },
+    {
+      "title": "CompTIA Server+",
+      "date": "2026-10-01",
+      "provider": "uCertify",
+      "recipient": "Brock Kristofer Phillips",
+      "credentialType": "course_completion",
+      "file": "certificates/files/ucertify-comptia-server-plus-2026-10-01.pdf",
+      "preview": "certificates/previews/ucertify-comptia-server-plus-2026-10-01.png",
+      "sha256": "ff0912fb70e9883dc9df4107edcd349f13ca0a3b9e8fbaa9ba443a22986c5091"
+    },
+    {
+      "title": "AZ-900: Microsoft Azure Fundamentals Certification Training",
+      "date": "2026-10-01",
+      "provider": "uCertify",
+      "recipient": "Brock Kristofer Phillips",
+      "credentialType": "course_completion",
+      "file": "certificates/files/ucertify-azure-fundamentals-training-2026-10-01.pdf",
+      "preview": "certificates/previews/ucertify-azure-fundamentals-training-2026-10-01.png",
+      "sha256": "d9308877056f54306e88915765a2defb429a1cbd998cbe0046aa88a440d21c00"
+    },
+    {
+      "title": "CompTIA CYSA+ (CS0-003)",
+      "date": "2026-10-03",
+      "provider": "uCertify",
+      "recipient": "Brock Kristofer Phillips",
+      "credentialType": "course_completion",
+      "file": "certificates/files/ucertify-comptia-cysa-plus-2026-10-03.pdf",
+      "preview": "certificates/previews/ucertify-comptia-cysa-plus-2026-10-03.png",
+      "sha256": "39abed6f188941ee9e516881c55dc0c64d5940bbd465950a352d8b2160a5e5c6"
+    },
+    {
+      "title": "AWS Certified Cloud Practitioner (CLF-C02)",
+      "date": "2026-10-14",
+      "provider": "uCertify",
+      "recipient": "Brock Kristofer Phillips",
+      "credentialType": "course_completion",
+      "file": "certificates/files/ucertify-aws-cloud-practitioner-training-2026-10-14.pdf",
+      "preview": "certificates/previews/ucertify-aws-cloud-practitioner-training-2026-10-14.png",
+      "sha256": "5f2f9cb3a628922711090f9ad50745ccabc429e912f4b7e22368de06b57616d7"
+    }
+  ],
+  "method": {
+    "title": "People define the purpose. Evidence establishes the result.",
+    "description": "I start with the person, the task, and the constraints. I use tools to build and check the work, preserve source evidence, document corrections, and keep consequential decisions with the human owner.",
+    "principles": [
+      {
+        "title": "Understand the work",
+        "description": "Connect the product to the actual task, the people using it, and the constraints they face."
+      },
+      {
+        "title": "Make the result inspectable",
+        "description": "Preserve sources, versions, checks, and outcomes so someone else can assess the work."
+      },
+      {
+        "title": "Keep people in control",
+        "description": "Separate preparation, permission, execution, and verification in consequential workflows."
+      }
+    ]
+  },
+  "experience": [
+    {
+      "title": "U.S. Army",
+      "description": "Counterintelligence, investigative analysis, reporting, equipment maintenance, operations, and training."
+    },
+    {
+      "title": "Federal service",
+      "description": "Evidence review, documentation, benefits work, and mentoring."
+    },
+    {
+      "title": "Youth programs",
+      "description": "Sports, fitness, program coordination, safety, and community activities."
+    },
+    {
+      "title": "Nuvara",
+      "description": "Founder and product direction, AI-assisted development, workflow design, technical documentation, and quality review."
+    }
+  ],
+  "education": "Associate of Arts in General Studies with a criminal justice curriculum; CyberTex Network Engineer training in progress.",
+  "publication": {
+    "title": "The Crowned One",
+    "subtitle": "What We Lost While Worshipping Greatness — A Reflection on Culture, Sports, and Identity",
+    "description": "An independent paperback exploring how sports, public admiration, and inherited definitions of success shape identity and responsibility.",
+    "author": "Brock K. Phillips Sr.",
+    "date": "2026-10-11",
+    "format": "Paperback",
+    "pages": 196,
+    "cover": "assets/the-crowned-one-cover.jpg",
+    "coverAlt": "The Crowned One by Brock K. Phillips Sr., paperback cover with generated artwork",
+    "link": "https://www.amazon.com/dp/B0HMYB2YLW"
+  },
+  "contact": {
+    "title": "Let’s talk about useful work.",
+    "description": "For a conversation about the projects, learning tools, or Nuvara’s direction, visit the Nuvara contact page.",
+    "website": "https://nuvaraai.com/",
+    "link": "https://nuvaraai.com/contact/"
+  },
+  "footerNote": "Project evidence reviewed October 14, 2026. Case studies describe dated results and current scope."
+}

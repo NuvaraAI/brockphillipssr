@@ -1,0 +1,3103 @@
+{
+  "updated": "2026-10-19",
+  "categories": [
+    {
+      "id": "military",
+      "label": "Army & military leadership",
+      "description": "Specialty training, leadership, maintenance, and operational foundations."
+    },
+    {
+      "id": "security",
+      "label": "Security & information protection",
+      "description": "Information security, operational security, and responsible handling of records."
+    },
+    {
+      "id": "youth-sports",
+      "label": "Sports, fitness & youth programs",
+      "description": "Coaching, child and youth development, program delivery, and safety."
+    },
+    {
+      "id": "professional",
+      "label": "Professional development",
+      "description": "Workplace, supervision, public service, and continuing development."
+    },
+    {
+      "id": "technology",
+      "label": "Technology & cloud",
+      "description": "Hardware, operating systems, networking, security, servers, and cloud coursework."
+    }
+  ],
+  "documents": [
+    {
+      "title": "Verification of Military Experience and Training (VMET)",
+      "provider": "U.S. Department of Defense",
+      "date": "2014-04-01",
+      "description": "Complete 42-page historical military experience and training record. Metadata and embedded actions removed; reviewed for SSN, birth date, address and private contact details. Course descriptions and credit recommendations are historical.",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "pages": 42,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "title": "USAG Italy Child and Youth Services staff training record",
+      "provider": "USAG Italy VMC",
+      "date": "2016-07-08",
+      "description": "Two-page public excerpt preserving every training row. Administrative identifiers and personal notes permanently removed; the administrative selection page is omitted. Historical training completions do not establish current CPR, first aid, food-handler or other credentials.",
+      "file": "certificates/files/usag-italy-youth-training-public.pdf",
+      "pages": 2,
+      "sha256": "7f05fedf5d402dcd39ad4f024d12a22da345f1a3b687870faa2c217caa958ac3"
+    },
+    {
+      "title": "Joint Services Transcript",
+      "provider": "Joint Services Transcript / U.S. Army",
+      "date": "2026-01-05",
+      "recordType": "Unofficial transcript",
+      "description": "An 11-page public copy documenting military training, occupations, and ACE credit recommendations. Personal identifiers and the obsolete service-status field are removed. Recommendations are not awarded college credit.",
+      "file": "certificates/files/army-jst-public.pdf",
+      "pages": 11,
+      "sha256": "3a93e9cc53bee0b9e93952035f4ef52fc6a65efcb2f1eb28e00e7894fdd23968"
+    }
+  ],
+  "records": [
+    {
+      "id": "army-600c45dl",
+      "title": "Advanced Leader Common Core",
+      "provider": "U.S. Army Sergeant Major Academy",
+      "date": "2013-08-30",
+      "category": "military",
+      "recordType": "Military training record",
+      "description": "Leadership development. Recorded in the unofficial Joint Services Transcript.",
+      "dateRange": "JUL 2013 - OCT 2013",
+      "file": "certificates/files/army-jst-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET",
+        "JST"
+      ],
+      "displayTitle": "Advanced Leader Common Core",
+      "sourcePage": 7,
+      "sha256": "3a93e9cc53bee0b9e93952035f4ef52fc6a65efcb2f1eb28e00e7894fdd23968"
+    },
+    {
+      "id": "army-ammo62os",
+      "title": "Technical Transportation of Hazardous Material",
+      "provider": "U.S. Army Ammunition School",
+      "date": "2013-06-14",
+      "category": "military",
+      "recordType": "Military training record",
+      "description": "Hazardous materials transport; VMET records 80 hours. Recorded in the unofficial Joint Services Transcript.",
+      "dateRange": "JUN 2013 - JUN 2013",
+      "file": "certificates/files/army-jst-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET",
+        "JST"
+      ],
+      "displayTitle": "Technical Transportation of Hazardous Material",
+      "sourcePage": 3,
+      "sha256": "3a93e9cc53bee0b9e93952035f4ef52fc6a65efcb2f1eb28e00e7894fdd23968"
+    },
+    {
+      "id": "army-j3taus022",
+      "title": "SERE 100 / Code of Conduct Training",
+      "provider": "Joint Warfighter Center",
+      "date": "2013-05-13",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Repeated historical military training in 2009 and 2013 consolidated. Recorded in the unofficial Joint Services Transcript.",
+      "dateRange": "OCT 2012 - SEP 2013, OCT 2008 - SEP 2009",
+      "file": "certificates/files/army-jst-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET",
+        "JST"
+      ],
+      "displayTitle": "SERE 100 / Code of Conduct Training",
+      "sourcePage": 7,
+      "sha256": "3a93e9cc53bee0b9e93952035f4ef52fc6a65efcb2f1eb28e00e7894fdd23968"
+    },
+    {
+      "id": "army-sale01a05bsenus",
+      "title": "WRKING WTHN THE SALES CULTRE OF YOUR ORGANZTN",
+      "provider": "U.S. Army",
+      "date": "2013",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2012 - SEP 2013",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "WRKING WTHN THE SALES CULTRE OF YOUR ORGANZTN",
+      "displayTitle": "Working within the Sales Culture of Your Organization",
+      "sourcePage": 8,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-stgy05a01bsenus",
+      "title": "THE FUNDAMENTALS OF GLOBALIZATION: THE GLOBAL",
+      "provider": "U.S. Army",
+      "date": "2013",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period. Source title is truncated; the displayed wording does not reconstruct missing text.",
+      "dateRange": "OCT 2012 - SEP 2013",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "THE FUNDAMENTALS OF GLOBALIZATION: THE GLOBAL",
+      "displayTitle": "The Fundamentals of Globalization: The Global... (record title truncated)",
+      "sourcePage": 11,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-stgy05a03bsenus",
+      "title": "THE FUNDAMENTALS OF GLOBALIZATION: STRATEGIES",
+      "provider": "U.S. Army",
+      "date": "2013",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2012 - SEP 2013",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "THE FUNDAMENTALS OF GLOBALIZATION: STRATEGIES",
+      "displayTitle": "The Fundamentals Of Globalization: Strategies",
+      "sourcePage": 12,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-sale01a02bsenus",
+      "title": "STRATEGIC SALES PLANNING",
+      "provider": "U.S. Army",
+      "date": "2013",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2012 - SEP 2013",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "STRATEGIC SALES PLANNING",
+      "displayTitle": "Strategic Sales Planning",
+      "sourcePage": 7,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-sale03a02bsenus",
+      "title": "SOLUTION SELLING: MEETING AN ACTIVE NEED",
+      "provider": "U.S. Army",
+      "date": "2013",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2012 - SEP 2013",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "SOLUTION SELLING: MEETING AN ACTIVE NEED",
+      "displayTitle": "Solution Selling: Meeting An Active Need",
+      "sourcePage": 9,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-sale03a01bsenus",
+      "title": "SOLUTION SELLING: MASTERING THE ESSENTIALS",
+      "provider": "U.S. Army",
+      "date": "2013",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2012 - SEP 2013",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "SOLUTION SELLING: MASTERING THE ESSENTIALS",
+      "displayTitle": "Solution Selling: Mastering The Essentials",
+      "sourcePage": 9,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-sale03a03bsenus",
+      "title": "SOLUTION SELLING: CREATING NEW OPPORTUNITIES",
+      "provider": "U.S. Army",
+      "date": "2013",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2012 - SEP 2013",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "SOLUTION SELLING: CREATING NEW OPPORTUNITIES",
+      "displayTitle": "Solution Selling: Creating New Opportunities",
+      "sourcePage": 10,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-sale01a03bsenus",
+      "title": "PREPARING FOR SUCCESSFUL SALES",
+      "provider": "U.S. Army",
+      "date": "2013",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2012 - SEP 2013",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "PREPARING FOR SUCCESSFUL SALES",
+      "displayTitle": "Preparing For Successful Sales",
+      "sourcePage": 7,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-eeo202",
+      "title": "NO FEAR TRAINING",
+      "provider": "U.S. Army",
+      "date": "2013",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2012 - SEP 2013",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "NO FEAR TRAINING",
+      "displayTitle": "NO FEAR Training",
+      "sourcePage": 6,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-sale02a02bsenus",
+      "title": "NEGTIATION SKLLS FR SALES PRFESSNALS: VALUE E",
+      "provider": "U.S. Army",
+      "date": "2013",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period. Source title is truncated; the displayed wording does not reconstruct missing text.",
+      "dateRange": "OCT 2012 - SEP 2013",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "NEGTIATION SKLLS FR SALES PRFESSNALS: VALUE E",
+      "displayTitle": "Negotiation Skills for Sales Professionals: Value E... (record title truncated)",
+      "sourcePage": 9,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-sale02a01bsenus",
+      "title": "NEGOTIATION SKLLS FR SALES PRFESSIONLS: PREPR",
+      "provider": "U.S. Army",
+      "date": "2013",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2012 - SEP 2013",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "NEGOTIATION SKLLS FR SALES PRFESSIONLS: PREPR",
+      "displayTitle": "Negotiation Skills for Sales Professionals: Preparation",
+      "sourcePage": 8,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-sale02a03bsenus",
+      "title": "NEGOTIATION SKILLS FR SALES PROS: REACHNG AGR",
+      "provider": "U.S. Army",
+      "date": "2013",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2012 - SEP 2013",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "NEGOTIATION SKILLS FR SALES PROS: REACHNG AGR",
+      "displayTitle": "Negotiation Skills for Sales Professionals: Reaching Agreement",
+      "sourcePage": 9,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-sale01a01bsenus",
+      "title": "INTRODUCTION TO SALES",
+      "provider": "U.S. Army",
+      "date": "2013",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2012 - SEP 2013",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "INTRODUCTION TO SALES",
+      "displayTitle": "Introduction To Sales",
+      "sourcePage": 6,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-stgy05a02bsenus",
+      "title": "FUNDAMENTALS OF GLOBALIZATION: ANALYZING THE",
+      "provider": "U.S. Army",
+      "date": "2013",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period. Source title is truncated; the displayed wording does not reconstruct missing text.",
+      "dateRange": "OCT 2012 - SEP 2013",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "FUNDAMENTALS OF GLOBALIZATION: ANALYZING THE",
+      "displayTitle": "Fundamentals of Globalization: Analyzing the... (record title truncated)",
+      "sourcePage": 12,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-sale05a02bsenus",
+      "title": "ESSENTL SELLING SKLLS: QUALIFYNG SALES PRSPCT",
+      "provider": "U.S. Army",
+      "date": "2013",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2012 - SEP 2013",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "ESSENTL SELLING SKLLS: QUALIFYNG SALES PRSPCT",
+      "displayTitle": "Essential Selling Skills: Qualifying Sales Prospects",
+      "sourcePage": 10,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-sale05a01bsenus",
+      "title": "ESSENTIAL SELLING SKLLS: MASTERNG COLD CALLNG",
+      "provider": "U.S. Army",
+      "date": "2013",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2012 - SEP 2013",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "ESSENTIAL SELLING SKLLS: MASTERNG COLD CALLNG",
+      "displayTitle": "Essential Selling Skills: Mastering Cold Calling",
+      "sourcePage": 10,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-sale05a03bsenus",
+      "title": "ESSENTIAL SELLING SKILLS: CLOSING THE SALE",
+      "provider": "U.S. Army",
+      "date": "2013",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2012 - SEP 2013",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "ESSENTIAL SELLING SKILLS: CLOSING THE SALE",
+      "displayTitle": "Essential Selling Skills: Closing The Sale",
+      "sourcePage": 11,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-sale01a04bsenus",
+      "title": "DEVELOPING STRONG CUSTOMER RELATIONSHIPS",
+      "provider": "U.S. Army",
+      "date": "2013",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2012 - SEP 2013",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "DEVELOPING STRONG CUSTOMER RELATIONSHIPS",
+      "displayTitle": "Developing Strong Customer Relationships",
+      "sourcePage": 7,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-sale01a06bsenus",
+      "title": "DEVELOPING A CUSTOMER-FOCUSED SALES APPROACH",
+      "provider": "U.S. Army",
+      "date": "2013",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2012 - SEP 2013",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "DEVELOPING A CUSTOMER-FOCUSED SALES APPROACH",
+      "displayTitle": "Developing A Customer-Focused Sales Approach",
+      "sourcePage": 8,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-1250c494dl",
+      "title": "Structured Self Development (SSD) IV",
+      "provider": "U.S. Army Sergeant Major Academy",
+      "date": "2012-10-01",
+      "category": "military",
+      "recordType": "Military training record",
+      "description": "Leadership and military operations; repeated transcript entries consolidated. Recorded in the unofficial Joint Services Transcript.",
+      "dateRange": "JUL 2012 - SEP 2012",
+      "file": "certificates/files/army-jst-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET",
+        "JST"
+      ],
+      "displayTitle": "Structured Self Development (SSD) IV",
+      "sourcePage": 3,
+      "sha256": "3a93e9cc53bee0b9e93952035f4ef52fc6a65efcb2f1eb28e00e7894fdd23968"
+    },
+    {
+      "id": "army-1250c493dl",
+      "category": "military",
+      "recordType": "Military training record",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "JST"
+      ],
+      "title": "Structured Self Development (SSD) III",
+      "provider": "U.S. Army Sergeant Major Academy",
+      "date": "2012-09-27",
+      "description": "Leadership and military science. Recorded in the unofficial Joint Services Transcript.",
+      "file": "certificates/files/army-jst-public.pdf",
+      "displayTitle": "Structured Self Development (SSD) III",
+      "sourcePage": 3,
+      "sha256": "3a93e9cc53bee0b9e93952035f4ef52fc6a65efcb2f1eb28e00e7894fdd23968"
+    },
+    {
+      "id": "army-1250c491dl",
+      "category": "military",
+      "recordType": "Military training record",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "JST"
+      ],
+      "title": "Structured Self Development (SSD) I",
+      "provider": "U.S. Army Sergeant Major Academy",
+      "date": "2012-09-05",
+      "description": "Leadership and military science. Recorded in the unofficial Joint Services Transcript.",
+      "file": "certificates/files/army-jst-public.pdf",
+      "displayTitle": "Structured Self Development (SSD) I",
+      "sourcePage": 2,
+      "sha256": "3a93e9cc53bee0b9e93952035f4ef52fc6a65efcb2f1eb28e00e7894fdd23968"
+    },
+    {
+      "id": "army-3gbckmdl",
+      "title": "ABCs and Knowledge Management Synchronizing Course",
+      "provider": "U.S. Army Modeling and Simulation School",
+      "date": "2012-06-17",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Knowledge management coursework. Recorded in the unofficial Joint Services Transcript.",
+      "dateRange": "MAY 2011 - MAY 2012",
+      "file": "certificates/files/army-jst-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET",
+        "JST"
+      ],
+      "displayTitle": "ABCs and Knowledge Management Synchronizing Course",
+      "sourcePage": 7,
+      "sha256": "3a93e9cc53bee0b9e93952035f4ef52fc6a65efcb2f1eb28e00e7894fdd23968"
+    },
+    {
+      "id": "army-3gmsbcdl",
+      "title": "Modeling and Simulation Basics Course",
+      "provider": "U.S. Army Modeling and Simulation School",
+      "date": "2012-06-14",
+      "category": "technology",
+      "recordType": "Military training record",
+      "description": "Historical technical coursework; 2011 and 2012 entries consolidated. Recorded in the unofficial Joint Services Transcript.",
+      "dateRange": "JUN 2011 - JUN 2012",
+      "file": "certificates/files/army-jst-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET",
+        "JST"
+      ],
+      "displayTitle": "Modeling and Simulation Basics Course",
+      "sourcePage": 7,
+      "sha256": "3a93e9cc53bee0b9e93952035f4ef52fc6a65efcb2f1eb28e00e7894fdd23968"
+    },
+    {
+      "id": "army-lewmasterdriver",
+      "title": "Master Driver Course",
+      "provider": "U.S. Army Troop Schools",
+      "date": "2012-02-17",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Driver program and safety training. Recorded in the unofficial Joint Services Transcript.",
+      "dateRange": "FEB 2012 - FEB 2012",
+      "file": "certificates/files/army-jst-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET",
+        "JST"
+      ],
+      "displayTitle": "Master Driver Course",
+      "sourcePage": 7,
+      "sha256": "3a93e9cc53bee0b9e93952035f4ef52fc6a65efcb2f1eb28e00e7894fdd23968"
+    },
+    {
+      "id": "army-pd28a02bsenus",
+      "title": "WRITING UNDER PRESSURE: THE WRITING PROCESS",
+      "provider": "U.S. Army",
+      "date": "2012",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2011 - SEP 2012",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "WRITING UNDER PRESSURE: THE WRITING PROCESS",
+      "displayTitle": "Writing under Pressure: The Writing Process",
+      "sourcePage": 19,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-stgy08a03bsenus",
+      "title": "USING STRATEGIC THINKING SKILLS",
+      "provider": "U.S. Army",
+      "date": "2012",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2011 - SEP 2012",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "USING STRATEGIC THINKING SKILLS",
+      "displayTitle": "Using Strategic Thinking Skills",
+      "sourcePage": 22,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-team02a05bsenus",
+      "title": "USING FEEDBACK TO IMPROVE TEAM PERFORMANCE",
+      "provider": "U.S. Army",
+      "date": "2012",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2011 - SEP 2012",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "USING FEEDBACK TO IMPROVE TEAM PERFORMANCE",
+      "displayTitle": "Using Feedback To Improve Team Performance",
+      "sourcePage": 24,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-comm08a03bsenus",
+      "title": "THE PROCESS OF NEGOTIATION",
+      "provider": "U.S. Army",
+      "date": "2012",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2011 - SEP 2012",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "THE PROCESS OF NEGOTIATION",
+      "displayTitle": "The Process Of Negotiation",
+      "sourcePage": 16,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-know0101",
+      "title": "THE ART OF KNOWLEDGE MANAGEMENT",
+      "provider": "U.S. Army",
+      "date": "2012",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2011 - SEP 2012",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "THE ART OF KNOWLEDGE MANAGEMENT",
+      "displayTitle": "The Art Of Knowledge Management",
+      "sourcePage": 18,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-fe0004eng",
+      "title": "TESTPREP FINAL EXAM: ACCOUNTING 101",
+      "provider": "U.S. Army",
+      "date": "2012",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2011 - SEP 2012",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "TESTPREP FINAL EXAM: ACCOUNTING 101",
+      "displayTitle": "Testprep Final Exam: Accounting 101",
+      "sourcePage": 18,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-pd23a02bsenus",
+      "title": "SPEAKING STRATEGIES:CONFIDENT PUBLIC SPEAKING",
+      "provider": "U.S. Army",
+      "date": "2012",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2011 - SEP 2012",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "SPEAKING STRATEGIES:CONFIDENT PUBLIC SPEAKING",
+      "displayTitle": "Speaking Strategies: Confident Public Speaking",
+      "sourcePage": 18,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-proj12a02bsenus",
+      "title": "PROCESSES FOR MANAGING PROJECT COMMUNICATIONS",
+      "provider": "U.S. Army",
+      "date": "2012",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2011 - SEP 2012",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "PROCESSES FOR MANAGING PROJECT COMMUNICATIONS",
+      "displayTitle": "Processes For Managing Project Communications",
+      "sourcePage": 19,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-comm32a01bsenus",
+      "title": "PREPARING FOR EFFECTIVE BUSINESS MEETINGS",
+      "provider": "U.S. Army",
+      "date": "2012",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2011 - SEP 2012",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "PREPARING FOR EFFECTIVE BUSINESS MEETINGS",
+      "displayTitle": "Preparing For Effective Business Meetings",
+      "sourcePage": 17,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-comm32a02bsenus",
+      "title": "MANAGING EFFECTIVE BUSINESS MEETINGS",
+      "provider": "U.S. Army",
+      "date": "2012",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2011 - SEP 2012",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "MANAGING EFFECTIVE BUSINESS MEETINGS",
+      "displayTitle": "Managing Effective Business Meetings",
+      "sourcePage": 17,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-team03a06bsenus",
+      "title": "LEADING TEAMS: MOTIVATING AND OPTIMIZING PERF",
+      "provider": "U.S. Army",
+      "date": "2012",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period. Source title is truncated; the displayed wording does not reconstruct missing text.",
+      "dateRange": "OCT 2011 - SEP 2012",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "LEADING TEAMS: MOTIVATING AND OPTIMIZING PERF",
+      "displayTitle": "Leading Teams: Motivating and Optimizing Perf... (record title truncated)",
+      "sourcePage": 25,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-team03a08bsenus",
+      "title": "LEADING TEAMS: MANAGING VIRTUAL TEAMS",
+      "provider": "U.S. Army",
+      "date": "2012",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2011 - SEP 2012",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "LEADING TEAMS: MANAGING VIRTUAL TEAMS",
+      "displayTitle": "Leading Teams: Managing Virtual Teams",
+      "sourcePage": 26,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-team03a01bsenus",
+      "title": "LEADING TEAMS: LAUNCHING A SUCCESSFUL TEAM",
+      "provider": "U.S. Army",
+      "date": "2012",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2011 - SEP 2012",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "LEADING TEAMS: LAUNCHING A SUCCESSFUL TEAM",
+      "displayTitle": "Leading Teams: Launching A Successful Team",
+      "sourcePage": 24,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-team03a02bsenus",
+      "title": "LEADING TEAMS: GOALS, ROLES, AND GUIDELINES",
+      "provider": "U.S. Army",
+      "date": "2012",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2011 - SEP 2012",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "LEADING TEAMS: GOALS, ROLES, AND GUIDELINES",
+      "displayTitle": "Leading Teams: Goals, Roles, And Guidelines",
+      "sourcePage": 24,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-team03a05bsenus",
+      "title": "LEADING TEAMS: FOSTERING EFFECTIVE COMMUNICAT",
+      "provider": "U.S. Army",
+      "date": "2012",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2011 - SEP 2012",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "LEADING TEAMS: FOSTERING EFFECTIVE COMMUNICAT",
+      "displayTitle": "Leading Teams: Fostering Effective Communication",
+      "sourcePage": 25,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-team03a03bsenus",
+      "title": "LEADING TEAMS: DEVELOPING THE TEAM AND ITS CU",
+      "provider": "U.S. Army",
+      "date": "2012",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period. Source title is truncated; the displayed wording does not reconstruct missing text.",
+      "dateRange": "OCT 2011 - SEP 2012",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "LEADING TEAMS: DEVELOPING THE TEAM AND ITS CU",
+      "displayTitle": "Leading Teams: Developing the Team and Its Cu... (record title truncated)",
+      "sourcePage": 24,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-team03a07bsenus",
+      "title": "LEADING TEAMS: DEALING WITH CONFLICT",
+      "provider": "U.S. Army",
+      "date": "2012",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2011 - SEP 2012",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "LEADING TEAMS: DEALING WITH CONFLICT",
+      "displayTitle": "Leading Teams: Dealing With Conflict",
+      "sourcePage": 26,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-team03a04bsenus",
+      "title": "LEADING TEAMS: BUILDING TRUST AND COMMITMENT",
+      "provider": "U.S. Army",
+      "date": "2012",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2011 - SEP 2012",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "LEADING TEAMS: BUILDING TRUST AND COMMITMENT",
+      "displayTitle": "Leading Teams: Building Trust And Commitment",
+      "sourcePage": 25,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-lead0234",
+      "title": "LEADING GENERATIONS X AND NEXT",
+      "provider": "U.S. Army",
+      "date": "2012",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2011 - SEP 2012",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "LEADING GENERATIONS X AND NEXT",
+      "displayTitle": "Leading Generations X And Next",
+      "sourcePage": 18,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-stgy06a02bsenus",
+      "title": "IT STRATGY ESSENTIALS: CREATNG AN IT STRATEGY",
+      "provider": "U.S. Army",
+      "date": "2012",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2011 - SEP 2012",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "IT STRATGY ESSENTIALS: CREATNG AN IT STRATEGY",
+      "displayTitle": "IT Strategy Essentials: Creating an IT Strategy",
+      "sourcePage": 20,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-stgy06a03bsenus",
+      "title": "IT STRATEGY ESSENTIALS: IMPLEMENTING AN IT ST",
+      "provider": "U.S. Army",
+      "date": "2012",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period. Source title is truncated; the displayed wording does not reconstruct missing text.",
+      "dateRange": "OCT 2011 - SEP 2012",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "IT STRATEGY ESSENTIALS: IMPLEMENTING AN IT ST",
+      "displayTitle": "IT Strategy Essentials: Implementing an IT St... (record title truncated)",
+      "sourcePage": 20,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-stgy06a01bsenus",
+      "title": "IT STRATEGY ESSENTIALS: BUSINESS AND IT STRAT",
+      "provider": "U.S. Army",
+      "date": "2012",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period. Source title is truncated; the displayed wording does not reconstruct missing text.",
+      "dateRange": "OCT 2011 - SEP 2012",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "IT STRATEGY ESSENTIALS: BUSINESS AND IT STRAT",
+      "displayTitle": "IT Strategy Essentials: Business and IT Strat... (record title truncated)",
+      "sourcePage": 20,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-stgy05a04bsenus",
+      "title": "FNDAMNTLS OF GLBALIZTN: MNAGING IN A GLBL ENV",
+      "provider": "U.S. Army",
+      "date": "2012",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2011 - SEP 2012",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "FNDAMNTLS OF GLBALIZTN: MNAGING IN A GLBL ENV",
+      "displayTitle": "Fundamentals of Globalization: Managing in a Global Environment",
+      "sourcePage": 19,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-team02a02bsenus",
+      "title": "ESTABLISHING TEAM GOALS AND RESPONSIBILITIES",
+      "provider": "U.S. Army",
+      "date": "2012",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2011 - SEP 2012",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "ESTABLISHING TEAM GOALS AND RESPONSIBILITIES",
+      "displayTitle": "Establishing Team Goals And Responsibilities",
+      "sourcePage": 23,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-team02a03bsenus",
+      "title": "ELEMENTS OF A COHESIVE TEAM",
+      "provider": "U.S. Army",
+      "date": "2012",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2011 - SEP 2012",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "ELEMENTS OF A COHESIVE TEAM",
+      "displayTitle": "Elements Of A Cohesive Team",
+      "sourcePage": 23,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-team02a04bsenus",
+      "title": "EFFECTIVE TEAM COMMUNICATION",
+      "provider": "U.S. Army",
+      "date": "2012",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2011 - SEP 2012",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "EFFECTIVE TEAM COMMUNICATION",
+      "displayTitle": "Effective Team Communication",
+      "sourcePage": 23,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-stgy08a02bsenus",
+      "title": "DEVLOPNG THE STRATGC THINKING SKLL OF SEENG",
+      "provider": "U.S. Army",
+      "date": "2012",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period. Source title is truncated; the displayed wording does not reconstruct missing text.",
+      "dateRange": "OCT 2011 - SEP 2012",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "DEVLOPNG THE STRATGC THINKING SKLL OF SEENG",
+      "displayTitle": "Developing the Strategic Thinking Skill of Seeing... (record title truncated)",
+      "sourcePage": 22,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-stgy08a01bsenus",
+      "title": "DEVELOPNG THE CAPACITY TO THINK STRATEGICALLY",
+      "provider": "U.S. Army",
+      "date": "2012",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2011 - SEP 2012",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "DEVELOPNG THE CAPACITY TO THINK STRATEGICALLY",
+      "displayTitle": "Developing the Capacity to Think Strategically",
+      "sourcePage": 21,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-comm32a03bsenus",
+      "title": "DEALING WITH COMMON MEETING PROBLEMS",
+      "provider": "U.S. Army",
+      "date": "2012",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2011 - SEP 2012",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "DEALING WITH COMMON MEETING PROBLEMS",
+      "displayTitle": "Dealing With Common Meeting Problems",
+      "sourcePage": 17,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-comm0014",
+      "title": "CRISP COMPOSITION",
+      "provider": "U.S. Army",
+      "date": "2012",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2011 - SEP 2012",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "CRISP COMPOSITION",
+      "displayTitle": "Crisp Composition",
+      "sourcePage": 16,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-ccicisa02itenus",
+      "title": "CISCO SWTCH 1.0 IMPLMNTNG VLANS IN CMPUS NTWK",
+      "provider": "U.S. Army",
+      "date": "2012",
+      "category": "technology",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period. Cisco SWITCH 1.0 historical course module; this record does not establish a Cisco exam certification.",
+      "dateRange": "OCT 2011 - SEP 2012",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "CISCO SWTCH 1.0 IMPLMNTNG VLANS IN CMPUS NTWK",
+      "displayTitle": "Cisco SWITCH 1.0: Implementing VLANs in Campus Networks",
+      "sourcePage": 15,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-ccicisa04itenus",
+      "title": "CISCO SWITCH 1.0: INTER-VLAN ROUTING",
+      "provider": "U.S. Army",
+      "date": "2012",
+      "category": "technology",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period. Cisco SWITCH 1.0 historical course module; this record does not establish a Cisco exam certification.",
+      "dateRange": "OCT 2011 - SEP 2012",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "CISCO SWITCH 1.0: INTER-VLAN ROUTING",
+      "displayTitle": "Cisco SWITCH 1.0: Inter-VLAN Routing",
+      "sourcePage": 15,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-ccicisa03itenus",
+      "title": "CISCO SWITCH 1.0: IMPLEMENTING SPANNING-TREE",
+      "provider": "U.S. Army",
+      "date": "2012",
+      "category": "technology",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period. Cisco SWITCH 1.0 historical course module; this record does not establish a Cisco exam certification.",
+      "dateRange": "OCT 2011 - SEP 2012",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "CISCO SWITCH 1.0: IMPLEMENTING SPANNING-TREE",
+      "displayTitle": "Cisco SWITCH 1.0: Implementing Spanning Tree",
+      "sourcePage": 15,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-ccicisa05itenus",
+      "title": "CISCO SWITCH 1.0: HIGHLY AVAILABLE NETWORKS",
+      "provider": "U.S. Army",
+      "date": "2012",
+      "category": "technology",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period. Cisco SWITCH 1.0 historical course module; this record does not establish a Cisco exam certification.",
+      "dateRange": "OCT 2011 - SEP 2012",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "CISCO SWITCH 1.0: HIGHLY AVAILABLE NETWORKS",
+      "displayTitle": "Cisco SWITCH 1.0: Highly Available Networks",
+      "sourcePage": 16,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-ccicisa01itenus",
+      "title": "CISCO SWITCH 1.0 ANLYZING CMPUS NTWRK DSGNS",
+      "provider": "U.S. Army",
+      "date": "2012",
+      "category": "technology",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period. Cisco SWITCH 1.0 historical course module; this record does not establish a Cisco exam certification.",
+      "dateRange": "OCT 2011 - SEP 2012",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "CISCO SWITCH 1.0 ANLYZING CMPUS NTWRK DSGNS",
+      "displayTitle": "Cisco SWITCH 1.0: Analyzing Campus Network Designs",
+      "sourcePage": 15,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-stgy07a01bsenus",
+      "title": "BUSINESS LAW BASIC CONCEPTS",
+      "provider": "U.S. Army",
+      "date": "2012",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2011 - SEP 2012",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "BUSINESS LAW BASIC CONCEPTS",
+      "displayTitle": "Business Law Basic Concepts",
+      "sourcePage": 21,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-stgy07a03bsenus",
+      "title": "BUSINESS LAW AND THE MANAGERS RESPONSIBILITI",
+      "provider": "U.S. Army",
+      "date": "2012",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2011 - SEP 2012",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "BUSINESS LAW AND THE MANAGERS RESPONSIBILITI",
+      "displayTitle": "Business Law and the Manager's Responsibilities",
+      "sourcePage": 21,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-stgy07a02bsenus",
+      "title": "BUSINESS LAW AND ETHICS",
+      "provider": "U.S. Army",
+      "date": "2012",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2011 - SEP 2012",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "BUSINESS LAW AND ETHICS",
+      "displayTitle": "Business Law And Ethics",
+      "sourcePage": 21,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-team02a01bsenus",
+      "title": "BEING AN EFFECTIVE TEAM MEMBER",
+      "provider": "U.S. Army",
+      "date": "2012",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2011 - SEP 2012",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "BEING AN EFFECTIVE TEAM MEMBER",
+      "displayTitle": "Being An Effective Team Member",
+      "sourcePage": 22,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-ad01a03bsenus",
+      "title": "ADMIN PROS: MAXIMIZING RELATIONS W YOUR BOSS",
+      "provider": "U.S. Army",
+      "date": "2012",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2011 - SEP 2012",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "ADMIN PROS: MAXIMIZING RELATIONS W YOUR BOSS",
+      "displayTitle": "Administrative Professionals: Maximizing Relations with Your Boss",
+      "sourcePage": 14,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-ad01a05bsenus",
+      "title": "ADMIN PROFESSIONALS: YOUR BEST FOOT FORWARD",
+      "provider": "U.S. Army",
+      "date": "2012",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2011 - SEP 2012",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "ADMIN PROFESSIONALS: YOUR BEST FOOT FORWARD",
+      "displayTitle": "Administrative Professionals: Your Best Foot Forward",
+      "sourcePage": 14,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-ad01a01bsenus",
+      "title": "ADMIN PROFESSIONALS: REPRESENTING YOUR BOSS",
+      "provider": "U.S. Army",
+      "date": "2012",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2011 - SEP 2012",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "ADMIN PROFESSIONALS: REPRESENTING YOUR BOSS",
+      "displayTitle": "Administrative Professionals: Representing Your Boss",
+      "sourcePage": 13,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-ad01a04bsenus",
+      "title": "ADMIN PROFESSIONALS: INTERACTING W/ OTHERS",
+      "provider": "U.S. Army",
+      "date": "2012",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2011 - SEP 2012",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "ADMIN PROFESSIONALS: INTERACTING W/ OTHERS",
+      "displayTitle": "Administrative Professionals: Interacting with Others",
+      "sourcePage": 14,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-ad01a02bsenus",
+      "title": "ADMIN PROFESSIONALS: COMMON ADMIN SUPP TASKS",
+      "provider": "U.S. Army",
+      "date": "2012",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2011 - SEP 2012",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "ADMIN PROFESSIONALS: COMMON ADMIN SUPP TASKS",
+      "displayTitle": "Administrative Professionals: Common Administrative Support Tasks",
+      "sourcePage": 13,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-4nsis7dl",
+      "title": "Simulation (S7)",
+      "provider": "U.S. Army Modeling and Simulation School",
+      "date": "2011-10-14",
+      "category": "technology",
+      "recordType": "Military training record",
+      "description": "Historical technical coursework. Recorded in the unofficial Joint Services Transcript.",
+      "dateRange": "OCT 2010 - OCT 2011",
+      "file": "certificates/files/army-jst-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET",
+        "JST"
+      ],
+      "displayTitle": "Simulation (S7)",
+      "sourcePage": 6,
+      "sha256": "3a93e9cc53bee0b9e93952035f4ef52fc6a65efcb2f1eb28e00e7894fdd23968"
+    },
+    {
+      "id": "army-2gf97dl",
+      "title": "Composite Risk Management Basic",
+      "provider": "U.S. Army Safety Center",
+      "date": "2011-09-30",
+      "category": "military",
+      "recordType": "Military training record",
+      "description": "Risk management training; March and September 2011 entries consolidated. Recorded in the unofficial Joint Services Transcript.",
+      "dateRange": "OCT 2010 - SEP 2011",
+      "file": "certificates/files/army-jst-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET",
+        "JST"
+      ],
+      "displayTitle": "Composite Risk Management Basic",
+      "sourcePage": 6,
+      "sha256": "3a93e9cc53bee0b9e93952035f4ef52fc6a65efcb2f1eb28e00e7894fdd23968"
+    },
+    {
+      "id": "army-081sdl11mcotsg0001",
+      "title": "Operations Security (OPSEC) Awareness Training",
+      "provider": "U.S. Army AMEDD Correspondence Courses",
+      "date": "2011-09-29",
+      "category": "security",
+      "recordType": "Military training record",
+      "description": "Information protection awareness. Recorded in the unofficial Joint Services Transcript.",
+      "dateRange": "JUN 2011 - SEP 2011",
+      "file": "certificates/files/army-jst-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET",
+        "JST"
+      ],
+      "displayTitle": "Operations Security (OPSEC) Awareness Training",
+      "sourcePage": 6,
+      "sha256": "3a93e9cc53bee0b9e93952035f4ef52fc6a65efcb2f1eb28e00e7894fdd23968"
+    },
+    {
+      "id": "army-24435l30c45",
+      "title": "Counterintelligence Agent Advanced Leader",
+      "provider": "U.S. Army NCO Academy",
+      "date": "2011-07-20",
+      "category": "security",
+      "recordType": "Military training record",
+      "description": "Advanced investigation and supervisory training. Recorded in the unofficial Joint Services Transcript.",
+      "dateRange": "JUN 2011 - JUL 2011",
+      "file": "certificates/files/army-jst-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET",
+        "JST"
+      ],
+      "displayTitle": "Counterintelligence Agent Advanced Leader",
+      "sourcePage": 2,
+      "sha256": "3a93e9cc53bee0b9e93952035f4ef52fc6a65efcb2f1eb28e00e7894fdd23968"
+    },
+    {
+      "id": "army-101m6810192y30dl",
+      "title": "UNIT SUPPLY SPECIALIST IMI SUSTAINMENT TRNG",
+      "provider": "U.S. Army",
+      "date": "2011",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2010 - SEP 2011",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "UNIT SUPPLY SPECIALIST IMI SUSTAINMENT TRNG",
+      "displayTitle": "Unit Supply Specialist IMI Sustainment Training",
+      "sourcePage": 30,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-081f43",
+      "title": "PUBLIC HEALTH RELATION TO BIO & CHEM TOXINS",
+      "provider": "U.S. Army",
+      "date": "2011",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2010 - JUL 2011",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "PUBLIC HEALTH RELATION TO BIO & CHEM TOXINS",
+      "displayTitle": "Public Health Relation to Biological and Chemical Toxins",
+      "sourcePage": 35,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-052m44",
+      "title": "Plumber (MOS 21K)",
+      "provider": "U.S. Army",
+      "date": "2011",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2010 - SEP 2011",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "Plumber (MOS 21K)",
+      "displayTitle": "Plumber (Mos 21K)",
+      "sourcePage": 28,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-191g11",
+      "title": "PHYSICAL SECURITY",
+      "provider": "U.S. Army",
+      "date": "2011",
+      "category": "security",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2010 - SEP 2011",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "PHYSICAL SECURITY",
+      "displayTitle": "Physical Security",
+      "sourcePage": 31,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-071t012esi5q011asif7",
+      "title": "PATHFINDER",
+      "provider": "U.S. Army",
+      "date": "2011",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2010 - SEP 2011",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "PATHFINDER",
+      "displayTitle": "Pathfinder",
+      "sourcePage": 29,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-081f39",
+      "title": "NUCLEAR TERRORISM & HEALTH EFFECTS",
+      "provider": "U.S. Army",
+      "date": "2011",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2010 - JUL 2011",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "NUCLEAR TERRORISM & HEALTH EFFECTS",
+      "displayTitle": "Nuclear Terrorism & Health Effects",
+      "sourcePage": 34,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-081f45",
+      "title": "MASS FATALITIES",
+      "provider": "U.S. Army",
+      "date": "2011",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2010 - JUL 2011",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "MASS FATALITIES",
+      "displayTitle": "Mass Fatalities",
+      "sourcePage": 35,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-081f46",
+      "title": "MASCAL",
+      "provider": "U.S. Army",
+      "date": "2011",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2010 - JUL 2011",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "MASCAL",
+      "displayTitle": "Mascal",
+      "sourcePage": 36,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-131f31",
+      "title": "MANAGER DEVELOPMENT COURSE (MDC)",
+      "provider": "U.S. Army",
+      "date": "2011",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2010 - SEP 2011",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "MANAGER DEVELOPMENT COURSE (MDC)",
+      "displayTitle": "Manager Development Course (Mdc)",
+      "sourcePage": 30,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-071d10010as12c",
+      "title": "JAVELIN GUNNERY TRAINER COURSE (GTC)",
+      "provider": "U.S. Army",
+      "date": "2011",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2010 - SEP 2011",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "JAVELIN GUNNERY TRAINER COURSE (GTC)",
+      "displayTitle": "Javelin Gunnery Trainer Course (Gtc)",
+      "sourcePage": 29,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-907d158gf1",
+      "title": "INTRO TO DEFENSE REUTILIZATION/MARKETING SYS",
+      "provider": "U.S. Army",
+      "date": "2011",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2010 - SEP 2011",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "INTRO TO DEFENSE REUTILIZATION/MARKETING SYS",
+      "displayTitle": "Introduction to Defense Reutilization / Marketing System",
+      "sourcePage": 32,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-191d21",
+      "title": "ENEMY POW/ CIVILIAN INTERNEE REFRESHER COURSE",
+      "provider": "U.S. Army",
+      "date": "2011",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2010 - SEP 2011",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "ENEMY POW/ CIVILIAN INTERNEE REFRESHER COURSE",
+      "displayTitle": "Enemy POW / Civilian Internee Refresher Course",
+      "sourcePage": 30,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-081f44",
+      "title": "DISASTER PLANNING",
+      "provider": "U.S. Army",
+      "date": "2011",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2010 - JUL 2011",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "DISASTER PLANNING",
+      "displayTitle": "Disaster Planning",
+      "sourcePage": 35,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-907d238bf10",
+      "title": "DEFENSE DISTRIBUTION MANAGEMENT",
+      "provider": "U.S. Army",
+      "date": "2011",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2010 - SEP 2011",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "DEFENSE DISTRIBUTION MANAGEMENT",
+      "displayTitle": "Defense Distribution Management",
+      "sourcePage": 33,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-031m32",
+      "title": "Decontamination",
+      "provider": "U.S. Army",
+      "date": "2011",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2010 - SEP 2011",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "Decontamination",
+      "displayTitle": "Decontamination",
+      "sourcePage": 28,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-081f41",
+      "title": "CASUALTIES OF CHEMICAL WARFARE",
+      "provider": "U.S. Army",
+      "date": "2011",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2010 - JUL 2011",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "CASUALTIES OF CHEMICAL WARFARE",
+      "displayTitle": "Casualties Of Chemical Warfare",
+      "sourcePage": 35,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-081f40",
+      "title": "CASE STUDIES IN TERRORISM",
+      "provider": "U.S. Army",
+      "date": "2011",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2010 - JUL 2011",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "CASE STUDIES IN TERRORISM",
+      "displayTitle": "Case Studies In Terrorism",
+      "sourcePage": 34,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-081f38",
+      "title": "BRUCELLOSIS",
+      "provider": "U.S. Army",
+      "date": "2011",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2010 - JUL 2011",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "BRUCELLOSIS",
+      "displayTitle": "Brucellosis",
+      "sourcePage": 34,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-081f35",
+      "title": "BIOLOGICAL WARFARE",
+      "provider": "U.S. Army",
+      "date": "2011",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2010 - JUL 2011",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "BIOLOGICAL WARFARE",
+      "displayTitle": "Biological Warfare",
+      "sourcePage": 33,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-191m15",
+      "title": "BASIC NCO REFRESHER (CMF 31)",
+      "provider": "U.S. Army",
+      "date": "2011",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2010 - SEP 2011",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "BASIC NCO REFRESHER (CMF 31)",
+      "displayTitle": "Basic NCO Refresher (CMF 31)",
+      "sourcePage": 32,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-301d15",
+      "title": "BASIC INTEL ANALYST(AOC 35D,MOS 350F,G,Z,35F)",
+      "provider": "U.S. Army",
+      "date": "2011",
+      "category": "security",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2010 - SEP 2011",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "BASIC INTEL ANALYST(AOC 35D,MOS 350F,G,Z,35F)",
+      "displayTitle": "Basic Intelligence Analyst (AOC 35D, MOS 350F, G, Z, 35F)",
+      "sourcePage": 32,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-191m11",
+      "title": "Advanced Noncommissioned Officer Refresher (MOS 31B)",
+      "provider": "U.S. Army",
+      "date": "2011",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2010 - SEP 2011",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "Advanced Noncommissioned Officer Refresher (MOS 31B)",
+      "displayTitle": "Advanced Noncommissioned Officer Refresher (MOS 31B)",
+      "sourcePage": 31,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-131p001",
+      "title": "ACTION OFFICERS DEVELOPMENT COURSE",
+      "provider": "U.S. Army",
+      "date": "2011",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2010 - SEP 2011",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "ACTION OFFICERS DEVELOPMENT COURSE",
+      "displayTitle": "Action Officers Development Course",
+      "sourcePage": 30,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-3c35e351l24435l20",
+      "title": "Counterintelligence Special Agent",
+      "provider": "U.S. Army Intelligence School",
+      "date": "2010-12-09",
+      "category": "military",
+      "recordType": "Military training record",
+      "description": "Investigations, evidence, interviewing and technical report writing. Recorded in the unofficial Joint Services Transcript.",
+      "dateRange": "JUL 2010 - DEC 2010",
+      "file": "certificates/files/army-jst-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET",
+        "JST"
+      ],
+      "displayTitle": "Counterintelligence Special Agent",
+      "sourcePage": 2,
+      "sha256": "3a93e9cc53bee0b9e93952035f4ef52fc6a65efcb2f1eb28e00e7894fdd23968"
+    },
+    {
+      "id": "army-72091c30dl2",
+      "title": "Utilities Equipment Repairer ALC - Phase 2",
+      "provider": "U.S. Army NCO Academy",
+      "date": "2010-09-30",
+      "category": "military",
+      "recordType": "Military training record",
+      "description": "Advanced technical leadership coursework. Recorded in the unofficial Joint Services Transcript.",
+      "dateRange": "OCT 2009 - SEP 2010",
+      "file": "certificates/files/army-jst-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET",
+        "JST"
+      ],
+      "displayTitle": "Utilities Equipment Repairer ALC - Phase 2",
+      "sourcePage": 6,
+      "sha256": "3a93e9cc53bee0b9e93952035f4ef52fc6a65efcb2f1eb28e00e7894fdd23968"
+    },
+    {
+      "id": "army-72091c30c45dl",
+      "title": "Utilities Equipment Repairer ALC - Phase 1",
+      "provider": "U.S. Army NCO Academy",
+      "date": "2010-09-30",
+      "category": "military",
+      "recordType": "Military training record",
+      "description": "Advanced technical leadership coursework; VMET records 140 hours. Recorded in the unofficial Joint Services Transcript.",
+      "dateRange": "OCT 2009 - SEP 2010",
+      "file": "certificates/files/army-jst-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET",
+        "JST"
+      ],
+      "displayTitle": "Utilities Equipment Repairer ALC - Phase 1",
+      "sourcePage": 6,
+      "sha256": "3a93e9cc53bee0b9e93952035f4ef52fc6a65efcb2f1eb28e00e7894fdd23968"
+    },
+    {
+      "id": "army-2gf94v31",
+      "title": "Commanders Safety Course",
+      "provider": "U.S. Army Safety Center",
+      "date": "2010-01-07",
+      "category": "military",
+      "recordType": "Military training record",
+      "description": "Workplace and command safety training. Recorded in the unofficial Joint Services Transcript.",
+      "dateRange": "OCT 2009 - SEP 2010",
+      "file": "certificates/files/army-jst-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET",
+        "JST"
+      ],
+      "displayTitle": "Commanders Safety Course",
+      "sourcePage": 6,
+      "sha256": "3a93e9cc53bee0b9e93952035f4ef52fc6a65efcb2f1eb28e00e7894fdd23968"
+    },
+    {
+      "id": "army-4cf59160f39",
+      "title": "Local COMSEC Management Software (LCMS) Workstation Operator",
+      "provider": "U.S. Army Signal School",
+      "date": "2009-10-09",
+      "category": "military",
+      "recordType": "Military training record",
+      "description": "Communications security workstation training. Recorded in the unofficial Joint Services Transcript.",
+      "dateRange": "SEP 2009 - OCT 2009",
+      "file": "certificates/files/army-jst-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET",
+        "JST"
+      ],
+      "displayTitle": "Local COMSEC Management Software (LCMS) Workstation Operator",
+      "sourcePage": 2,
+      "sha256": "3a93e9cc53bee0b9e93952035f4ef52fc6a65efcb2f1eb28e00e7894fdd23968"
+    },
+    {
+      "id": "army-aiccrsrsesp01",
+      "title": "ROSETTA STONE SPANISH (LAT. AM) UNIT 01",
+      "provider": "U.S. Army",
+      "date": "2009",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2008 - SEP 2009",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "ROSETTA STONE SPANISH (LAT. AM) UNIT 01",
+      "displayTitle": "Rosetta Stone Spanish (Latin America), Unit 01",
+      "sourcePage": 39,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-081f031",
+      "title": "PEST MANAGEMENT",
+      "provider": "U.S. Army",
+      "date": "2009",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2008 - SEP 2009",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "PEST MANAGEMENT",
+      "displayTitle": "Pest Management",
+      "sourcePage": 38,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-091m2766252c10dl",
+      "title": "UTILITY EQUIPMENT REPAIRER (MOS 52C)",
+      "provider": "U.S. Army",
+      "date": "2007",
+      "category": "military",
+      "recordType": "Military training record",
+      "description": "Historical coursework recorded in the VMET; completion dates are recorded as a reporting period.",
+      "dateRange": "OCT 2006 - SEP 2007",
+      "file": "certificates/files/army-vmet-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET"
+      ],
+      "sourceTitle": "UTILITY EQUIPMENT REPAIRER (MOS 52C)",
+      "displayTitle": "Utility Equipment Repairer (MOS 52C)",
+      "sourcePage": 39,
+      "sha256": "e82a87c415e3f3f3a23b15c1c6cb586d7d84dd4af75e87712376659c6f090f33"
+    },
+    {
+      "id": "army-2gf94dl",
+      "title": "Commander's Safety",
+      "provider": "U.S. Army Safety Center",
+      "date": "2006-06-05",
+      "category": "military",
+      "recordType": "Military training record",
+      "description": "Workplace and command safety training. Recorded in the unofficial Joint Services Transcript.",
+      "dateRange": "OCT 2005 - SEP 2006",
+      "file": "certificates/files/army-jst-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET",
+        "JST"
+      ],
+      "displayTitle": "Commander's Safety",
+      "sourcePage": 6,
+      "sha256": "3a93e9cc53bee0b9e93952035f4ef52fc6a65efcb2f1eb28e00e7894fdd23968"
+    },
+    {
+      "id": "army-131f21",
+      "title": "Supervisor Development (SDC)",
+      "provider": "U.S. Army Correspondence Course",
+      "date": "2003-09-30",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Supervisory development; VMET also records a 2009-2010 period. Recorded in the unofficial Joint Services Transcript.",
+      "dateRange": "OCT 2009 - SEP 2010; OCT 2002 - SEP 2003",
+      "file": "certificates/files/army-jst-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET",
+        "JST"
+      ],
+      "displayTitle": "Supervisor Development (SDC)",
+      "sourcePage": 6,
+      "sha256": "3a93e9cc53bee0b9e93952035f4ef52fc6a65efcb2f1eb28e00e7894fdd23968"
+    },
+    {
+      "id": "army-093d19",
+      "title": "Electronic Technology",
+      "provider": "U.S. Army Correspondence Course",
+      "date": "2003-08-21",
+      "category": "technology",
+      "recordType": "Military training record",
+      "description": "Historical technical coursework. Recorded in the unofficial Joint Services Transcript.",
+      "dateRange": "OCT 2002 - SEP 2003",
+      "file": "certificates/files/army-jst-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET",
+        "JST"
+      ],
+      "displayTitle": "Electronic Technology",
+      "sourcePage": 6,
+      "sha256": "3a93e9cc53bee0b9e93952035f4ef52fc6a65efcb2f1eb28e00e7894fdd23968"
+    },
+    {
+      "id": "army-2fa1",
+      "title": "Air Assault",
+      "provider": "U.S. Army Air Assault School",
+      "date": "2001-09-28",
+      "category": "military",
+      "recordType": "Military training record",
+      "description": "Historical military school record. Recorded in the unofficial Joint Services Transcript.",
+      "dateRange": "SEP 2001 - SEP 2001",
+      "file": "certificates/files/army-jst-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET",
+        "JST"
+      ],
+      "displayTitle": "Air Assault",
+      "sourcePage": 6,
+      "sha256": "3a93e9cc53bee0b9e93952035f4ef52fc6a65efcb2f1eb28e00e7894fdd23968"
+    },
+    {
+      "id": "army-66252c10",
+      "title": "Utilities Equipment Repairer",
+      "provider": "U.S. Army Ordnance Mechanical Maintenance School",
+      "date": "1997-12-17",
+      "category": "military",
+      "recordType": "Military training record",
+      "description": "Electricity, air conditioning and refrigeration maintenance. Recorded in the unofficial Joint Services Transcript.",
+      "dateRange": "SEP 1997 - DEC 1997",
+      "file": "certificates/files/army-jst-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET",
+        "JST"
+      ],
+      "displayTitle": "Utilities Equipment Repairer",
+      "sourcePage": 1,
+      "sha256": "3a93e9cc53bee0b9e93952035f4ef52fc6a65efcb2f1eb28e00e7894fdd23968"
+    },
+    {
+      "id": "army-21114",
+      "title": "Basic Combat Training",
+      "provider": "U.S. Army Training Center",
+      "date": "1997-09-25",
+      "category": "professional",
+      "recordType": "Military training record",
+      "description": "Military foundation. Recorded in the unofficial Joint Services Transcript.",
+      "dateRange": "AUG 1997 - SEP 1997",
+      "file": "certificates/files/army-jst-public.pdf",
+      "recipient": "Brock Kristofer Phillips",
+      "sourceRecords": [
+        "VMET",
+        "JST"
+      ],
+      "displayTitle": "Basic Combat Training",
+      "sourcePage": 1,
+      "sha256": "3a93e9cc53bee0b9e93952035f4ef52fc6a65efcb2f1eb28e00e7894fdd23968"
+    },
+    {
+      "id": "cisco-operating-systems-basics",
+      "title": "Operating Systems Basics",
+      "provider": "Cisco Networking Academy",
+      "date": "2025-11-17",
+      "category": "technology",
+      "recordType": "Course completion",
+      "description": "Cisco Networking Academy course completion covering operating system fundamentals.",
+      "file": "certificates/files/cisco-operating-systems-basics.pdf",
+      "preview": "certificates/previews/cisco-operating-systems-basics.png",
+      "recipient": "Brock Phillips",
+      "sha256": "2788e699304673cda9f58f4e2b86cbee318301d6e54cba63505ca26e723e9901"
+    },
+    {
+      "id": "usag-a-abuse-abuse-neglect-review-if-applic",
+      "title": "Abuse/Neglect Review",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2015-05-14",
+      "dates": [
+        "2015-05-14"
+      ],
+      "category": "youth-sports",
+      "recordType": "Historical staff training completion",
+      "description": "Recorded staff training completion in the July 2016 USAG Italy record. Historical completion; no current credential or renewal is implied.",
+      "file": "certificates/files/usag-italy-youth-training-public.pdf",
+      "recipient": "Brock Phillips",
+      "sha256": "7f05fedf5d402dcd39ad4f024d12a22da345f1a3b687870faa2c217caa958ac3",
+      "sourcePage": 1
+    },
+    {
+      "id": "usag-a-cpr-child-adult-cpr-renewal-if-applic",
+      "title": "Child/Adult CPR Renewal",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2015-05-13",
+      "dates": [
+        "2015-05-13"
+      ],
+      "category": "youth-sports",
+      "recordType": "Historical staff training completion",
+      "description": "Recorded staff training completion in the July 2016 USAG Italy record. Historical completion; no current credential or renewal is implied.",
+      "file": "certificates/files/usag-italy-youth-training-public.pdf",
+      "recipient": "Brock Phillips",
+      "sha256": "7f05fedf5d402dcd39ad4f024d12a22da345f1a3b687870faa2c217caa958ac3",
+      "sourcePage": 1
+    },
+    {
+      "id": "usag-a-first-first-aid-renewal-if-applic",
+      "title": "First Aid Renewal",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2015-05-14",
+      "dates": [
+        "2015-05-14"
+      ],
+      "category": "youth-sports",
+      "recordType": "Historical staff training completion",
+      "description": "Recorded staff training completion in the July 2016 USAG Italy record. Historical completion; no current credential or renewal is implied.",
+      "file": "certificates/files/usag-italy-youth-training-public.pdf",
+      "recipient": "Brock Phillips",
+      "sha256": "7f05fedf5d402dcd39ad4f024d12a22da345f1a3b687870faa2c217caa958ac3",
+      "sourcePage": 1
+    },
+    {
+      "id": "usag-a-food-food-handlers-if-applic",
+      "title": "Food Handlers",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2015-05-15",
+      "dates": [
+        "2015-05-15"
+      ],
+      "category": "youth-sports",
+      "recordType": "Historical staff training completion",
+      "description": "Recorded staff training completion in the July 2016 USAG Italy record. Historical completion; no current credential or renewal is implied.",
+      "file": "certificates/files/usag-italy-youth-training-public.pdf",
+      "recipient": "Brock Phillips",
+      "sha256": "7f05fedf5d402dcd39ad4f024d12a22da345f1a3b687870faa2c217caa958ac3",
+      "sourcePage": 1
+    },
+    {
+      "id": "usag-a1-wksh-annual-workshop-suicide-awareness",
+      "title": "Annual workshop: Suicide Awareness",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2015-12-17",
+      "dates": [
+        "2015-12-17"
+      ],
+      "category": "youth-sports",
+      "recordType": "Historical staff training completion",
+      "description": "Recorded staff training completion in the July 2016 USAG Italy record. Historical completion; no current credential or renewal is implied.",
+      "file": "certificates/files/usag-italy-youth-training-public.pdf",
+      "recipient": "Brock Phillips",
+      "sha256": "7f05fedf5d402dcd39ad4f024d12a22da345f1a3b687870faa2c217caa958ac3",
+      "sourcePage": 1
+    },
+    {
+      "id": "usag-a1-wksh-annual-workshop-tmo",
+      "title": "Annual workshop: TMO",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2015-09-01",
+      "dates": [
+        "2015-09-01"
+      ],
+      "category": "youth-sports",
+      "recordType": "Historical staff training completion",
+      "description": "Recorded staff training completion in the July 2016 USAG Italy record. Historical completion; no current credential or renewal is implied.",
+      "file": "certificates/files/usag-italy-youth-training-public.pdf",
+      "recipient": "Brock Phillips",
+      "sha256": "7f05fedf5d402dcd39ad4f024d12a22da345f1a3b687870faa2c217caa958ac3",
+      "sourcePage": 1
+    },
+    {
+      "id": "usag-a1-wksh-annual-workshop-sharp-standing-strong",
+      "title": "Annual workshop: SHARP - Standing Strong",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2015-07-31",
+      "dates": [
+        "2015-07-31"
+      ],
+      "category": "youth-sports",
+      "recordType": "Historical staff training completion",
+      "description": "Recorded staff training completion in the July 2016 USAG Italy record. Historical completion; no current credential or renewal is implied.",
+      "file": "certificates/files/usag-italy-youth-training-public.pdf",
+      "recipient": "Brock Phillips",
+      "sha256": "7f05fedf5d402dcd39ad4f024d12a22da345f1a3b687870faa2c217caa958ac3",
+      "sourcePage": 1
+    },
+    {
+      "id": "usag-a1-wksh-annual-workshop-mwr-team-member-orientation",
+      "title": "Annual workshop: MWR Team Member Orientation",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2015-08-01",
+      "dates": [
+        "2015-08-01"
+      ],
+      "category": "youth-sports",
+      "recordType": "Historical staff training completion",
+      "description": "Recorded staff training completion in the July 2016 USAG Italy record. Historical completion; no current credential or renewal is implied.",
+      "file": "certificates/files/usag-italy-youth-training-public.pdf",
+      "recipient": "Brock Phillips",
+      "sha256": "7f05fedf5d402dcd39ad4f024d12a22da345f1a3b687870faa2c217caa958ac3",
+      "sourcePage": 1
+    },
+    {
+      "id": "usag-a1-wksh-annual-workshop-sharp-online-standing-strong",
+      "title": "Annual workshop: SHARP online - Standing Strong",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2015-07-31",
+      "dates": [
+        "2015-07-31"
+      ],
+      "category": "youth-sports",
+      "recordType": "Historical staff training completion",
+      "description": "Recorded staff training completion in the July 2016 USAG Italy record. Historical completion; no current credential or renewal is implied.",
+      "file": "certificates/files/usag-italy-youth-training-public.pdf",
+      "recipient": "Brock Phillips",
+      "sha256": "7f05fedf5d402dcd39ad4f024d12a22da345f1a3b687870faa2c217caa958ac3",
+      "sourcePage": 1
+    },
+    {
+      "id": "usag-a6-bbp-blood-borne-pathogens",
+      "title": "Blood Borne Pathogens",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2016-03-22",
+      "dates": [
+        "2015-05-12",
+        "2016-03-22"
+      ],
+      "category": "youth-sports",
+      "recordType": "Historical staff training completion",
+      "description": "Recorded staff training completion in the July 2016 USAG Italy record. Historical completion; no current credential or renewal is implied.",
+      "file": "certificates/files/usag-italy-youth-training-public.pdf",
+      "recipient": "Brock Phillips",
+      "sha256": "7f05fedf5d402dcd39ad4f024d12a22da345f1a3b687870faa2c217caa958ac3",
+      "sourcePage": 1
+    },
+    {
+      "id": "usag-a6-cd-communicable-diseases",
+      "title": "Communicable Diseases",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2015-05-12",
+      "dates": [
+        "2015-05-12"
+      ],
+      "category": "youth-sports",
+      "recordType": "Historical staff training completion",
+      "description": "Recorded staff training completion in the July 2016 USAG Italy record. Historical completion; no current credential or renewal is implied.",
+      "file": "certificates/files/usag-italy-youth-training-public.pdf",
+      "recipient": "Brock Phillips",
+      "sha256": "7f05fedf5d402dcd39ad4f024d12a22da345f1a3b687870faa2c217caa958ac3",
+      "sourcePage": 1
+    },
+    {
+      "id": "usag-a6-ethic-annual-character-development-ethics",
+      "title": "Annual - Character Development Ethics",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2015-05-15",
+      "dates": [
+        "2015-05-15"
+      ],
+      "category": "youth-sports",
+      "recordType": "Historical staff training completion",
+      "description": "Recorded staff training completion in the July 2016 USAG Italy record. Historical completion; no current credential or renewal is implied.",
+      "file": "certificates/files/usag-italy-youth-training-public.pdf",
+      "recipient": "Brock Phillips",
+      "sha256": "7f05fedf5d402dcd39ad4f024d12a22da345f1a3b687870faa2c217caa958ac3",
+      "sourcePage": 1
+    },
+    {
+      "id": "usag-a6-fire-annual-fire-update",
+      "title": "Annual - Fire Update",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2015-07-13",
+      "dates": [
+        "2015-07-13"
+      ],
+      "category": "youth-sports",
+      "recordType": "Historical staff training completion",
+      "description": "Recorded staff training completion in the July 2016 USAG Italy record. Historical completion; no current credential or renewal is implied.",
+      "file": "certificates/files/usag-italy-youth-training-public.pdf",
+      "recipient": "Brock Phillips",
+      "sha256": "7f05fedf5d402dcd39ad4f024d12a22da345f1a3b687870faa2c217caa958ac3",
+      "sourcePage": 1
+    },
+    {
+      "id": "usag-a6-h-s-health-sanitation",
+      "title": "Health & Sanitation",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2015-06-26",
+      "dates": [
+        "2015-05-12",
+        "2015-06-26"
+      ],
+      "category": "youth-sports",
+      "recordType": "Historical staff training completion",
+      "description": "Recorded staff training completion in the July 2016 USAG Italy record. Historical completion; no current credential or renewal is implied.",
+      "file": "certificates/files/usag-italy-youth-training-public.pdf",
+      "recipient": "Brock Phillips",
+      "sha256": "7f05fedf5d402dcd39ad4f024d12a22da345f1a3b687870faa2c217caa958ac3",
+      "sourcePage": 1
+    },
+    {
+      "id": "usag-a6-meds-medication-administration",
+      "title": "Medication Administration",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2016-03-22",
+      "dates": [
+        "2015-05-12",
+        "2016-03-22"
+      ],
+      "category": "youth-sports",
+      "recordType": "Historical staff training completion",
+      "description": "Recorded staff training completion in the July 2016 USAG Italy record. Historical completion; no current credential or renewal is implied.",
+      "file": "certificates/files/usag-italy-youth-training-public.pdf",
+      "recipient": "Brock Phillips",
+      "sha256": "7f05fedf5d402dcd39ad4f024d12a22da345f1a3b687870faa2c217caa958ac3",
+      "sourcePage": 1
+    },
+    {
+      "id": "usag-a6-sids-sudden-infant-death-syndrome",
+      "title": "Sudden Infant Death Syndrome",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2015-05-15",
+      "dates": [
+        "2015-05-15"
+      ],
+      "category": "youth-sports",
+      "recordType": "Historical staff training completion",
+      "description": "Recorded staff training completion in the July 2016 USAG Italy record. Historical completion; no current credential or renewal is implied.",
+      "file": "certificates/files/usag-italy-youth-training-public.pdf",
+      "recipient": "Brock Phillips",
+      "sha256": "7f05fedf5d402dcd39ad4f024d12a22da345f1a3b687870faa2c217caa958ac3",
+      "sourcePage": 1
+    },
+    {
+      "id": "usag-c1-healt-child-health-sanitation-nutrition",
+      "title": "Child Health/Sanitation/Nutrition",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2015-07-13",
+      "dates": [
+        "2015-05-07",
+        "2015-05-12",
+        "2015-07-13"
+      ],
+      "category": "youth-sports",
+      "recordType": "Historical staff training completion",
+      "description": "Recorded staff training completion in the July 2016 USAG Italy record. Historical completion; no current credential or renewal is implied.",
+      "file": "certificates/files/usag-italy-youth-training-public.pdf",
+      "recipient": "Brock Phillips",
+      "sha256": "7f05fedf5d402dcd39ad4f024d12a22da345f1a3b687870faa2c217caa958ac3",
+      "sourcePage": 1
+    },
+    {
+      "id": "usag-c4-dine-family-style-dining-1",
+      "title": "Family Style Dining",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2015-07-13",
+      "dates": [
+        "2015-07-13"
+      ],
+      "category": "youth-sports",
+      "recordType": "Historical staff training completion",
+      "description": "Recorded staff training completion in the July 2016 USAG Italy record. Historical completion; no current credential or renewal is implied.",
+      "file": "certificates/files/usag-italy-youth-training-public.pdf",
+      "recipient": "Brock Phillips",
+      "sha256": "7f05fedf5d402dcd39ad4f024d12a22da345f1a3b687870faa2c217caa958ac3",
+      "sourcePage": 1
+    },
+    {
+      "id": "usag-s1-devel-school-age-growth-development",
+      "title": "School-Age Growth/Development",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2015-07-13",
+      "dates": [
+        "2015-07-13"
+      ],
+      "category": "youth-sports",
+      "recordType": "Historical staff training completion",
+      "description": "Recorded staff training completion in the July 2016 USAG Italy record. Historical completion; no current credential or renewal is implied.",
+      "file": "certificates/files/usag-italy-youth-training-public.pdf",
+      "recipient": "Brock Phillips",
+      "sha256": "7f05fedf5d402dcd39ad4f024d12a22da345f1a3b687870faa2c217caa958ac3",
+      "sourcePage": 1
+    },
+    {
+      "id": "usag-t1-abuse-abuse-id-report-prevent-in-yth-prog",
+      "title": "Abuse-ID/Report/Prevent in Yth Prog",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2015-05-14",
+      "dates": [
+        "2015-05-07",
+        "2015-05-14"
+      ],
+      "category": "youth-sports",
+      "recordType": "Historical staff training completion",
+      "description": "Recorded staff training completion in the July 2016 USAG Italy record. Historical completion; no current credential or renewal is implied.",
+      "file": "certificates/files/usag-italy-youth-training-public.pdf",
+      "recipient": "Brock Phillips",
+      "sha256": "7f05fedf5d402dcd39ad4f024d12a22da345f1a3b687870faa2c217caa958ac3",
+      "sourcePage": 1
+    },
+    {
+      "id": "usag-t1-activ-planning-appropriate-activites",
+      "title": "Planning Appropriate Activites",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2015-05-15",
+      "dates": [
+        "2015-05-07",
+        "2015-05-15"
+      ],
+      "category": "youth-sports",
+      "recordType": "Historical staff training completion",
+      "description": "Recorded staff training completion in the July 2016 USAG Italy record. Historical completion; no current credential or renewal is implied.",
+      "file": "certificates/files/usag-italy-youth-training-public.pdf",
+      "recipient": "Brock Phillips",
+      "sha256": "7f05fedf5d402dcd39ad4f024d12a22da345f1a3b687870faa2c217caa958ac3",
+      "sourcePage": 1
+    },
+    {
+      "id": "usag-t1-desig-designing-environments",
+      "title": "Designing Environments",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2015-07-13",
+      "dates": [
+        "2015-05-07",
+        "2015-07-13"
+      ],
+      "category": "youth-sports",
+      "recordType": "Historical staff training completion",
+      "description": "Recorded staff training completion in the July 2016 USAG Italy record. Historical completion; no current credential or renewal is implied.",
+      "file": "certificates/files/usag-italy-youth-training-public.pdf",
+      "recipient": "Brock Phillips",
+      "sha256": "7f05fedf5d402dcd39ad4f024d12a22da345f1a3b687870faa2c217caa958ac3",
+      "sourcePage": 1
+    },
+    {
+      "id": "usag-t1-devel-adolescent-growth-development",
+      "title": "Adolescent Growth/Development",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2015-07-13",
+      "dates": [
+        "2015-05-07",
+        "2015-07-13"
+      ],
+      "category": "youth-sports",
+      "recordType": "Historical staff training completion",
+      "description": "Recorded staff training completion in the July 2016 USAG Italy record. Historical completion; no current credential or renewal is implied.",
+      "file": "certificates/files/usag-italy-youth-training-public.pdf",
+      "recipient": "Brock Phillips",
+      "sha256": "7f05fedf5d402dcd39ad4f024d12a22da345f1a3b687870faa2c217caa958ac3",
+      "sourcePage": 1
+    },
+    {
+      "id": "usag-t1-guide-guidance-techniques",
+      "title": "Guidance Techniques",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2015-05-14",
+      "dates": [
+        "2015-05-07",
+        "2015-05-14"
+      ],
+      "category": "youth-sports",
+      "recordType": "Historical staff training completion",
+      "description": "Recorded staff training completion in the July 2016 USAG Italy record. Historical completion; no current credential or renewal is implied.",
+      "file": "certificates/files/usag-italy-youth-training-public.pdf",
+      "recipient": "Brock Phillips",
+      "sha256": "7f05fedf5d402dcd39ad4f024d12a22da345f1a3b687870faa2c217caa958ac3",
+      "sourcePage": 1
+    },
+    {
+      "id": "usag-t1-miat-multidisciplinary-inclusion-action-team",
+      "title": "Multidisciplinary Inclusion Action Team",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2015-05-13",
+      "dates": [
+        "2015-05-07",
+        "2015-05-13"
+      ],
+      "category": "youth-sports",
+      "recordType": "Historical staff training completion",
+      "description": "Recorded staff training completion in the July 2016 USAG Italy record. Historical completion; no current credential or renewal is implied.",
+      "file": "certificates/files/usag-italy-youth-training-public.pdf",
+      "recipient": "Brock Phillips",
+      "sha256": "7f05fedf5d402dcd39ad4f024d12a22da345f1a3b687870faa2c217caa958ac3",
+      "sourcePage": 1
+    },
+    {
+      "id": "usag-t1-paren-parent-and-public-relations",
+      "title": "Parent and Public Relations",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2015-05-13",
+      "dates": [
+        "2015-05-07",
+        "2015-05-13"
+      ],
+      "category": "youth-sports",
+      "recordType": "Historical staff training completion",
+      "description": "Recorded staff training completion in the July 2016 USAG Italy record. Historical completion; no current credential or renewal is implied.",
+      "file": "certificates/files/usag-italy-youth-training-public.pdf",
+      "recipient": "Brock Phillips",
+      "sha256": "7f05fedf5d402dcd39ad4f024d12a22da345f1a3b687870faa2c217caa958ac3",
+      "sourcePage": 1
+    },
+    {
+      "id": "usag-t1-regs-army-policies-regulations",
+      "title": "Army Policies & Regulations",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2015-05-01",
+      "dates": [
+        "2015-05-01"
+      ],
+      "category": "youth-sports",
+      "recordType": "Historical staff training completion",
+      "description": "Recorded staff training completion in the July 2016 USAG Italy record. Historical completion; no current credential or renewal is implied.",
+      "file": "certificates/files/usag-italy-youth-training-public.pdf",
+      "recipient": "Brock Phillips",
+      "sha256": "7f05fedf5d402dcd39ad4f024d12a22da345f1a3b687870faa2c217caa958ac3",
+      "sourcePage": 1
+    },
+    {
+      "id": "usag-t1-role-role-modeling-for-ms-teens",
+      "title": "Role Modeling for MS/Teens",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2015-05-07",
+      "dates": [
+        "2015-05-07"
+      ],
+      "category": "youth-sports",
+      "recordType": "Historical staff training completion",
+      "description": "Recorded staff training completion in the July 2016 USAG Italy record. Historical completion; no current credential or renewal is implied.",
+      "file": "certificates/files/usag-italy-youth-training-public.pdf",
+      "recipient": "Brock Phillips",
+      "sha256": "7f05fedf5d402dcd39ad4f024d12a22da345f1a3b687870faa2c217caa958ac3",
+      "sourcePage": 1
+    },
+    {
+      "id": "usag-t1-safet-safety-emergency-procedures",
+      "title": "Safety/Emergency Procedures",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2015-07-13",
+      "dates": [
+        "2015-05-07",
+        "2015-07-13"
+      ],
+      "category": "youth-sports",
+      "recordType": "Historical staff training completion",
+      "description": "Recorded staff training completion in the July 2016 USAG Italy record. Historical completion; no current credential or renewal is implied.",
+      "file": "certificates/files/usag-italy-youth-training-public.pdf",
+      "recipient": "Brock Phillips",
+      "sha256": "7f05fedf5d402dcd39ad4f024d12a22da345f1a3b687870faa2c217caa958ac3",
+      "sourcePage": 1
+    },
+    {
+      "id": "usag-t1-work-working-with-ms-teens",
+      "title": "Working with MS/Teens",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2015-05-07",
+      "dates": [
+        "2015-05-07"
+      ],
+      "category": "youth-sports",
+      "recordType": "Historical staff training completion",
+      "description": "Recorded staff training completion in the July 2016 USAG Italy record. Historical completion; no current credential or renewal is implied.",
+      "file": "certificates/files/usag-italy-youth-training-public.pdf",
+      "recipient": "Brock Phillips",
+      "sha256": "7f05fedf5d402dcd39ad4f024d12a22da345f1a3b687870faa2c217caa958ac3",
+      "sourcePage": 1
+    },
+    {
+      "id": "usag-t3-abuse-id-report-abuse-in-youth-prog-2",
+      "title": "ID/Report Abuse in Youth Prog",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2016-01-19",
+      "dates": [
+        "2016-01-19"
+      ],
+      "category": "youth-sports",
+      "recordType": "Historical staff training completion",
+      "description": "Recorded staff training completion in the July 2016 USAG Italy record. Historical completion; no current credential or renewal is implied.",
+      "file": "certificates/files/usag-italy-youth-training-public.pdf",
+      "recipient": "Brock Phillips",
+      "sha256": "7f05fedf5d402dcd39ad4f024d12a22da345f1a3b687870faa2c217caa958ac3",
+      "sourcePage": 1
+    },
+    {
+      "id": "usag-t3-cmptr-basic-computer-skills-2",
+      "title": "Basic Computer Skills",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2016-01-19",
+      "dates": [
+        "2016-01-19"
+      ],
+      "category": "youth-sports",
+      "recordType": "Historical staff training completion",
+      "description": "Recorded staff training completion in the July 2016 USAG Italy record. Historical completion; no current credential or renewal is implied.",
+      "file": "certificates/files/usag-italy-youth-training-public.pdf",
+      "recipient": "Brock Phillips",
+      "sha256": "7f05fedf5d402dcd39ad4f024d12a22da345f1a3b687870faa2c217caa958ac3",
+      "sourcePage": 1
+    },
+    {
+      "id": "usag-t3-comm-mod-6-communication-2-special-need",
+      "title": "Mod 6: Communication + Special Need",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2016-01-19",
+      "dates": [
+        "2016-01-19"
+      ],
+      "category": "youth-sports",
+      "recordType": "Historical staff training completion",
+      "description": "Recorded staff training completion in the July 2016 USAG Italy record. Historical completion; no current credential or renewal is implied.",
+      "file": "certificates/files/usag-italy-youth-training-public.pdf",
+      "recipient": "Brock Phillips",
+      "sha256": "7f05fedf5d402dcd39ad4f024d12a22da345f1a3b687870faa2c217caa958ac3",
+      "sourcePage": 1
+    },
+    {
+      "id": "usag-t3-guide-mod-10-guidance-2",
+      "title": "Mod 10: Guidance",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2016-01-19",
+      "dates": [
+        "2016-01-19"
+      ],
+      "category": "youth-sports",
+      "recordType": "Historical staff training completion",
+      "description": "Recorded staff training completion in the July 2016 USAG Italy record. Historical completion; no current credential or renewal is implied.",
+      "file": "certificates/files/usag-italy-youth-training-public.pdf",
+      "recipient": "Brock Phillips",
+      "sha256": "7f05fedf5d402dcd39ad4f024d12a22da345f1a3b687870faa2c217caa958ac3",
+      "sourcePage": 1
+    },
+    {
+      "id": "usag-t3-mgmt1-mod-12-prog-mgmt-pt1-4-svc-area-2-sn",
+      "title": "Mod 12: Prog Mgmt/Pt1:4 Svc Area +SN",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2016-01-19",
+      "dates": [
+        "2016-01-19"
+      ],
+      "category": "youth-sports",
+      "recordType": "Historical staff training completion",
+      "description": "Recorded staff training completion in the July 2016 USAG Italy record. Historical completion; no current credential or renewal is implied.",
+      "file": "certificates/files/usag-italy-youth-training-public.pdf",
+      "recipient": "Brock Phillips",
+      "sha256": "7f05fedf5d402dcd39ad4f024d12a22da345f1a3b687870faa2c217caa958ac3",
+      "sourcePage": 1
+    },
+    {
+      "id": "usag-t3-obser-other-ys-sas-prog-observation-1",
+      "title": "Other YS/SAS Prog Observation",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2015-12-29",
+      "dates": [
+        "2015-12-29"
+      ],
+      "category": "youth-sports",
+      "recordType": "Historical staff training completion",
+      "description": "Recorded staff training completion in the July 2016 USAG Italy record. Historical completion; no current credential or renewal is implied.",
+      "file": "certificates/files/usag-italy-youth-training-public.pdf",
+      "recipient": "Brock Phillips",
+      "sha256": "7f05fedf5d402dcd39ad4f024d12a22da345f1a3b687870faa2c217caa958ac3",
+      "sourcePage": 1
+    },
+    {
+      "id": "usag-t3-otech-observation-techniques-1",
+      "title": "Observation Techniques",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2015-12-29",
+      "dates": [
+        "2015-12-29"
+      ],
+      "category": "youth-sports",
+      "recordType": "Historical staff training completion",
+      "description": "Recorded staff training completion in the July 2016 USAG Italy record. Historical completion; no current credential or renewal is implied.",
+      "file": "certificates/files/usag-italy-youth-training-public.pdf",
+      "recipient": "Brock Phillips",
+      "sha256": "7f05fedf5d402dcd39ad4f024d12a22da345f1a3b687870faa2c217caa958ac3",
+      "sourcePage": 1
+    },
+    {
+      "id": "usag-t4-abuse-preventing-abuse-in-youth-prog-2",
+      "title": "Preventing Abuse in Youth Prog",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2016-01-19",
+      "dates": [
+        "2016-01-19"
+      ],
+      "category": "youth-sports",
+      "recordType": "Historical staff training completion",
+      "description": "Recorded staff training completion in the July 2016 USAG Italy record. Historical completion; no current credential or renewal is implied.",
+      "file": "certificates/files/usag-italy-youth-training-public.pdf",
+      "recipient": "Brock Phillips",
+      "sha256": "7f05fedf5d402dcd39ad4f024d12a22da345f1a3b687870faa2c217caa958ac3",
+      "sourcePage": 1
+    },
+    {
+      "id": "usag-t4-cmptr-facilitating-the-computer-lab-1",
+      "title": "Facilitating the Computer Lab",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2016-04-20",
+      "dates": [
+        "2016-04-20"
+      ],
+      "category": "youth-sports",
+      "recordType": "Historical staff training completion",
+      "description": "Recorded staff training completion in the July 2016 USAG Italy record. Historical completion; no current credential or renewal is implied.",
+      "file": "certificates/files/usag-italy-youth-training-public.pdf",
+      "recipient": "Brock Phillips",
+      "sha256": "7f05fedf5d402dcd39ad4f024d12a22da345f1a3b687870faa2c217caa958ac3",
+      "sourcePage": 1
+    },
+    {
+      "id": "usag-t4-envir-mod-3-environments-2-special-needs",
+      "title": "Mod 3: Environments + Special Needs",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2016-04-20",
+      "dates": [
+        "2016-04-20"
+      ],
+      "category": "youth-sports",
+      "recordType": "Historical staff training completion",
+      "description": "Recorded staff training completion in the July 2016 USAG Italy record. Historical completion; no current credential or renewal is implied.",
+      "file": "certificates/files/usag-italy-youth-training-public.pdf",
+      "recipient": "Brock Phillips",
+      "sha256": "7f05fedf5d402dcd39ad4f024d12a22da345f1a3b687870faa2c217caa958ac3",
+      "sourcePage": 2
+    },
+    {
+      "id": "usag-t4-famil-mod-11-families-2-special-needs",
+      "title": "Mod 11: Families + Special Needs",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2016-04-20",
+      "dates": [
+        "2016-04-20"
+      ],
+      "category": "youth-sports",
+      "recordType": "Historical staff training completion",
+      "description": "Recorded staff training completion in the July 2016 USAG Italy record. Historical completion; no current credential or renewal is implied.",
+      "file": "certificates/files/usag-italy-youth-training-public.pdf",
+      "recipient": "Brock Phillips",
+      "sha256": "7f05fedf5d402dcd39ad4f024d12a22da345f1a3b687870faa2c217caa958ac3",
+      "sourcePage": 2
+    },
+    {
+      "id": "usag-t4-physi-mod-4-physical-2-special-needs",
+      "title": "Mod 4: Physical + Special Needs",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2016-04-20",
+      "dates": [
+        "2016-04-20"
+      ],
+      "category": "youth-sports",
+      "recordType": "Historical staff training completion",
+      "description": "Recorded staff training completion in the July 2016 USAG Italy record. Historical completion; no current credential or renewal is implied.",
+      "file": "certificates/files/usag-italy-youth-training-public.pdf",
+      "recipient": "Brock Phillips",
+      "sha256": "7f05fedf5d402dcd39ad4f024d12a22da345f1a3b687870faa2c217caa958ac3",
+      "sourcePage": 2
+    },
+    {
+      "id": "usag-t4-projt-special-project-2",
+      "title": "Special Project",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2016-04-20",
+      "dates": [
+        "2016-04-20"
+      ],
+      "category": "youth-sports",
+      "recordType": "Historical staff training completion",
+      "description": "Recorded staff training completion in the July 2016 USAG Italy record. Historical completion; no current credential or renewal is implied.",
+      "file": "certificates/files/usag-italy-youth-training-public.pdf",
+      "recipient": "Brock Phillips",
+      "sha256": "7f05fedf5d402dcd39ad4f024d12a22da345f1a3b687870faa2c217caa958ac3",
+      "sourcePage": 2
+    },
+    {
+      "id": "usag-t4-rate-ypers-youth-program-environmental-rate",
+      "title": "YPERS - Youth Program Environmental Rate",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2016-02-09",
+      "dates": [
+        "2016-02-09"
+      ],
+      "category": "youth-sports",
+      "recordType": "Historical staff training completion",
+      "description": "Recorded staff training completion in the July 2016 USAG Italy record. Historical completion; no current credential or renewal is implied.",
+      "file": "certificates/files/usag-italy-youth-training-public.pdf",
+      "recipient": "Brock Phillips",
+      "sha256": "7f05fedf5d402dcd39ad4f024d12a22da345f1a3b687870faa2c217caa958ac3",
+      "sourcePage": 2
+    },
+    {
+      "id": "usag-t4-safe-mod-1-safe-2-special-needs",
+      "title": "Mod 1: Safe + Special Needs",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2016-04-20",
+      "dates": [
+        "2016-04-20"
+      ],
+      "category": "youth-sports",
+      "recordType": "Historical staff training completion",
+      "description": "Recorded staff training completion in the July 2016 USAG Italy record. Historical completion; no current credential or renewal is implied.",
+      "file": "certificates/files/usag-italy-youth-training-public.pdf",
+      "recipient": "Brock Phillips",
+      "sha256": "7f05fedf5d402dcd39ad4f024d12a22da345f1a3b687870faa2c217caa958ac3",
+      "sourcePage": 2
+    },
+    {
+      "id": "usag-t4-self-mod-8-self-2",
+      "title": "Mod 8: Self",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2016-04-20",
+      "dates": [
+        "2016-04-20"
+      ],
+      "category": "youth-sports",
+      "recordType": "Historical staff training completion",
+      "description": "Recorded staff training completion in the July 2016 USAG Italy record. Historical completion; no current credential or renewal is implied.",
+      "file": "certificates/files/usag-italy-youth-training-public.pdf",
+      "recipient": "Brock Phillips",
+      "sha256": "7f05fedf5d402dcd39ad4f024d12a22da345f1a3b687870faa2c217caa958ac3",
+      "sourcePage": 2
+    },
+    {
+      "id": "usag-t4-socia-mod-9-social-2-special-needs",
+      "title": "Mod 9: Social + Special Needs",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2016-04-20",
+      "dates": [
+        "2016-04-20"
+      ],
+      "category": "youth-sports",
+      "recordType": "Historical staff training completion",
+      "description": "Recorded staff training completion in the July 2016 USAG Italy record. Historical completion; no current credential or renewal is implied.",
+      "file": "certificates/files/usag-italy-youth-training-public.pdf",
+      "recipient": "Brock Phillips",
+      "sha256": "7f05fedf5d402dcd39ad4f024d12a22da345f1a3b687870faa2c217caa958ac3",
+      "sourcePage": 2
+    },
+    {
+      "id": "usag-t4-tutor-tutoring-homework-center-1",
+      "title": "Tutoring - Homework Center",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2016-04-20",
+      "dates": [
+        "2016-04-20"
+      ],
+      "category": "youth-sports",
+      "recordType": "Historical staff training completion",
+      "description": "Recorded staff training completion in the July 2016 USAG Italy record. Historical completion; no current credential or renewal is implied.",
+      "file": "certificates/files/usag-italy-youth-training-public.pdf",
+      "recipient": "Brock Phillips",
+      "sha256": "7f05fedf5d402dcd39ad4f024d12a22da345f1a3b687870faa2c217caa958ac3",
+      "sourcePage": 2
+    },
+    {
+      "id": "ucertify-comptia-a-plus-core-2-2025-12-23",
+      "title": "CompTIA A+ Core 2 (220-1202)",
+      "provider": "uCertify",
+      "date": "2025-12-23",
+      "category": "technology",
+      "recordType": "Course completion",
+      "description": "",
+      "file": "certificates/files/ucertify-comptia-a-plus-core-2-2025-12-23.pdf",
+      "preview": "certificates/previews/ucertify-comptia-a-plus-core-2-2025-12-23.png",
+      "recipient": "Brock Kristofer Phillips",
+      "sha256": "d3e6360c45343970922fefeb66fc7e86e69e6cf242cf13f9140878f3134173d0"
+    },
+    {
+      "id": "cisco-computer-hardware-basics-2026-01-18",
+      "title": "Computer Hardware Basics",
+      "provider": "Cisco Networking Academy",
+      "date": "2026-01-18",
+      "category": "technology",
+      "recordType": "Course completion",
+      "description": "",
+      "file": "certificates/files/cisco-computer-hardware-basics-2026-01-18.pdf",
+      "preview": "certificates/previews/cisco-computer-hardware-basics-2026-01-18.png",
+      "recipient": "Brock Phillips",
+      "sha256": "c1ae19007372965c44c66a3a2c42a5f54c181b6e00aa1a245234fe08931fc229"
+    },
+    {
+      "id": "ucertify-comptia-linux-plus-2026-06-01",
+      "title": "CompTIA Linux+",
+      "provider": "uCertify",
+      "date": "2026-06-01",
+      "category": "technology",
+      "recordType": "Course completion",
+      "description": "",
+      "file": "certificates/files/ucertify-comptia-linux-plus-2026-06-01.pdf",
+      "preview": "certificates/previews/ucertify-comptia-linux-plus-2026-06-01.png",
+      "recipient": "Brock Kristofer Phillips",
+      "sha256": "dae2471b36e2eeeffbf53412776449e925dc78fcc92df7245bf2f51e6ec3858a"
+    },
+    {
+      "id": "ucertify-comptia-security-plus-2026-08-06",
+      "title": "CompTIA Security+ (SY0-701)",
+      "provider": "uCertify",
+      "date": "2026-08-06",
+      "category": "technology",
+      "recordType": "Course completion",
+      "description": "",
+      "file": "certificates/files/ucertify-comptia-security-plus-2026-08-06.pdf",
+      "preview": "certificates/previews/ucertify-comptia-security-plus-2026-08-06.png",
+      "recipient": "Brock Kristofer Phillips",
+      "sha256": "fe8402172de8b56cbd09f7c4ec0649e1952e3d4488646537d140dce4de77e74e"
+    },
+    {
+      "id": "ucertify-comptia-server-plus-2026-10-01",
+      "title": "CompTIA Server+",
+      "provider": "uCertify",
+      "date": "2026-10-01",
+      "category": "technology",
+      "recordType": "Course completion",
+      "description": "",
+      "file": "certificates/files/ucertify-comptia-server-plus-2026-10-01.pdf",
+      "preview": "certificates/previews/ucertify-comptia-server-plus-2026-10-01.png",
+      "recipient": "Brock Kristofer Phillips",
+      "sha256": "ff0912fb70e9883dc9df4107edcd349f13ca0a3b9e8fbaa9ba443a22986c5091"
+    },
+    {
+      "id": "ucertify-azure-fundamentals-training-2026-10-01",
+      "title": "AZ-900: Microsoft Azure Fundamentals Certification Training",
+      "provider": "uCertify",
+      "date": "2026-10-01",
+      "category": "technology",
+      "recordType": "Course completion",
+      "description": "",
+      "file": "certificates/files/ucertify-azure-fundamentals-training-2026-10-01.pdf",
+      "preview": "certificates/previews/ucertify-azure-fundamentals-training-2026-10-01.png",
+      "recipient": "Brock Kristofer Phillips",
+      "sha256": "d9308877056f54306e88915765a2defb429a1cbd998cbe0046aa88a440d21c00"
+    },
+    {
+      "id": "ucertify-comptia-cysa-plus-2026-10-03",
+      "title": "CompTIA CYSA+ (CS0-003)",
+      "provider": "uCertify",
+      "date": "2026-10-03",
+      "category": "technology",
+      "recordType": "Course completion",
+      "description": "",
+      "file": "certificates/files/ucertify-comptia-cysa-plus-2026-10-03.pdf",
+      "preview": "certificates/previews/ucertify-comptia-cysa-plus-2026-10-03.png",
+      "recipient": "Brock Kristofer Phillips",
+      "sha256": "39abed6f188941ee9e516881c55dc0c64d5940bbd465950a352d8b2160a5e5c6"
+    },
+    {
+      "id": "ucertify-aws-cloud-practitioner-training-2026-10-14",
+      "title": "AWS Certified Cloud Practitioner (CLF-C02)",
+      "provider": "uCertify",
+      "date": "2026-10-14",
+      "category": "technology",
+      "recordType": "Course completion",
+      "description": "",
+      "file": "certificates/files/ucertify-aws-cloud-practitioner-training-2026-10-14.pdf",
+      "preview": "certificates/previews/ucertify-aws-cloud-practitioner-training-2026-10-14.png",
+      "recipient": "Brock Kristofer Phillips",
+      "sha256": "5f2f9cb3a628922711090f9ad50745ccabc429e912f4b7e22368de06b57616d7"
+    }
+  ]
+}

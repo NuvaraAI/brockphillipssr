@@ -1,17 +1,18 @@
 {
   "name": "Brock K. Phillips Sr.",
-  "headline": "Nuvara founder · U.S. Army veteran · Systems and workflow builder",
-  "updated": "2026-10-14",
-  "professionalSummary": "Founder of Nuvara and U.S. Army veteran with a background in counterintelligence, federal benefits review, equipment maintenance, and youth programs. I bring evidence analysis, clear documentation, and operational judgment to human-directed AI projects, technical systems, and practical learning tools. I direct product development and use AI assistance for coding, drafting, analysis, and testing, with human review and documented checks.",
+  "headline": "Founder and Principal at Nuvara · Federal benefits professional · U.S. Army veteran",
+  "updated": "2026-10-19",
+  "professionalSummary": "Founder of Nuvara, federal benefits professional, U.S. Army veteran and published author. I bring evidence analysis, investigative judgment and clear documentation to complex records, operational decisions and practical technical systems. My career spans federal benefits authorization, counterintelligence, equipment maintenance and Army youth programs. At Nuvara, I define requirements, direct AI-assisted implementation, organize verification and make release decisions across web systems, infrastructure, learning tools and business workflows.",
   "experience": [
     {
       "title": "Founder and Principal",
       "organization": "Nuvara",
       "period": "2025–present",
       "highlights": [
-        "Translate practical needs into AI-assisted web systems, documented workflows, and learning tools.",
-        "Direct product scope, implementation, technical documentation, and quality review while maintaining human control over consequential decisions.",
-        "Organize source evidence, operating procedures, and project status so completed work, prototypes, and remaining dependencies are clear."
+        "Turn practical needs into project requirements, system designs, acceptance criteria and operating procedures.",
+        "Direct AI-assisted implementation of public web systems and private workflows across technology, learning, small-business operations, research and media.",
+        "Organize source evidence, testing, diagnostics and release records so deliverables and remaining dependencies are clear.",
+        "Maintain human review over consequential decisions and distinguish deployed work, supervised pilots, simulations and prototypes."
       ]
     },
     {
@@ -19,9 +20,11 @@
       "organization": "U.S. Department of Veterans Affairs",
       "period": "February 2020–present",
       "highlights": [
-        "Review federal benefits evidence, proposed actions, and notices for technical accuracy, completeness, and procedural compliance.",
-        "Reconcile records, identify conflicting or missing information, and document corrective guidance needed to resolve deficiencies.",
-        "Maintain organized case documentation and protect confidential information during review and quality oversight."
+        "Perform authorizer duties, reviewing proposed benefits awards, evidence and notices for technical accuracy and completeness before payment.",
+        "Reconcile service, medical, personnel and electronic records to identify conflicting evidence, missing information and discrepancies affecting proposed actions.",
+        "Authorize compliant actions or defer cases for correction, documenting defects and clear written guidance under established procedures.",
+        "Assess supporting records for relevance and sufficiency, escalating material issues requiring clarification or additional development.",
+        "Maintain organized electronic case documentation for continuity and quality oversight while protecting confidential claimant information."
       ]
     },
     {
@@ -29,8 +32,9 @@
       "organization": "Department of the Army",
       "period": "2014–2020",
       "highlights": [
-        "Coordinated sports, fitness, and youth activities, including schedules, equipment, program records, and accountability procedures.",
-        "Monitored safety practices and documented program requirements for supervisory review.",
+        "Coordinated sports, fitness and youth activities, including schedules, equipment and program requirements.",
+        "Maintained program records, inspection documentation and accountability procedures in regulated Army youth programs.",
+        "Monitored activities and safety practices and documented incidents and requirements for supervisory review.",
         "Worked with families and program staff to provide clear service and apply program standards consistently."
       ]
     },
@@ -39,30 +43,134 @@
       "organization": "U.S. Army",
       "period": "July 1997–March 2014 military service",
       "highlights": [
-        "Served 3 years and 1 month in counterintelligence; earlier utilities equipment repair specialty totaled 13 years and 1 month.",
-        "Conducted investigative and analytical inquiries, reconciled information from multiple sources, and prepared written reports and briefings.",
-        "Supported equipment maintenance, safety, inventory, operations, and personnel training."
+        "Served 3 years and 1 month in the counterintelligence specialty; earlier utilities equipment repair specialty totaled 13 years and 1 month. Held the rank of Sergeant.",
+        "Conducted investigative and analytical inquiries through document review, interviews, corroboration and credibility assessment.",
+        "Reconciled information from multiple sources and prepared written findings and briefings to support leadership decisions.",
+        "Handled sensitive information under procedural controls and maintained documentation integrity.",
+        "Supported maintenance, safety, inventory, operations and personnel training in the earlier utilities equipment repair specialty."
       ]
     }
   ],
   "selectedProjects": [
     {
-      "title": "Nuvara platform and Core / HALO workflows",
-      "description": "Directed a public website and private AI operating workflows with task policies, evidence receipts, diagnostics, and documented release boundaries.",
-      "scope": "Public website live; private systems continue through separate readiness checks.",
+      "title": "Nuvara platform",
+      "role": "Founder and product direction",
+      "description": "Organized AI operations, learning, cybersecurity, media, business workflows, and research into a responsive public website. Directed AI-assisted implementation and review of navigation, research content, inquiry intake, and release procedures that exclude private operating records.",
+      "highlights": [
+        "Organized AI operations, learning, cybersecurity, media, business workflows, and research into a responsive public website.",
+        "Directed AI-assisted implementation and review of navigation, research content, inquiry intake, and release procedures that exclude private operating records.",
+        "Defined the information architecture and project status language to help visitors understand the work and its current scope."
+      ],
+      "scope": "Public website live. Private systems and learner journeys have separate acceptance requirements.",
       "caseSlug": "nuvara-platform"
     },
     {
-      "title": "CyberTex infrastructure and cloud capstone",
-      "description": "Led lab direction and evidence organization for Proxmox, Windows Server, Active Directory, DNS/DHCP, and team cloud architecture documentation.",
-      "scope": "Documented lab observations and architecture deliverables; final live application integration remains separate.",
+      "title": "Core HALO and local workforce",
+      "role": "Product requirements and technical direction",
+      "description": "Directed AI-assisted implementation of task orchestration, operator views, execution receipts, and human approval and policy controls. Organized diagnostics, acceptance review, and documentation for bounded local security and evidence tooling.",
+      "highlights": [
+        "Directed AI-assisted implementation of task orchestration, operator views, execution receipts, and human approval and policy controls.",
+        "Organized diagnostics, acceptance review, and documentation for bounded local security and evidence tooling.",
+        "Developed local worker registration and provider integration workflows with explicit task and reporting boundaries."
+      ],
+      "scope": "Private implementations. Infrastructure readiness and dependable autonomous operation remain in development.",
+      "caseSlug": "core-halo"
+    },
+    {
+      "title": "AI squared and Writing Studio",
+      "role": "Learning design and product direction",
+      "description": "Defined learning workflows built around original attempts, revision, source attribution, reflection, and human review. Directed AI-assisted implementation and review of Writing Studio version saves, conflict detection, export, and assignment policy controls.",
+      "highlights": [
+        "Defined learning workflows built around original attempts, revision, source attribution, reflection, and human review.",
+        "Directed AI-assisted implementation and review of Writing Studio version saves, conflict detection, export, and assignment policy controls.",
+        "Organized learning materials connecting lessons, practical tasks, and review rubrics."
+      ],
+      "scope": "Implemented components and prototypes. Full learner acceptance and measured learning outcomes remain open.",
+      "caseSlug": "ai2-learning"
+    },
+    {
+      "title": "Nuvara Lab Guide",
+      "role": "Pilot design and release direction",
+      "description": "Defined a supervised macOS pilot and directed AI-assisted implementation of signed manifests, hash allowlists, encrypted activation, and command-line release and installation workflows. Directed checks for signatures, expiry, device mismatch, path traversal and symlink handling, and exclusion of publisher secrets.",
+      "highlights": [
+        "Defined a supervised macOS pilot and directed AI-assisted implementation of signed manifests, hash allowlists, encrypted activation, and command-line release and installation workflows.",
+        "Directed checks for signatures, expiry, device mismatch, path traversal and symlink handling, and exclusion of publisher secrets.",
+        "Produced a repeatable local distribution and activation process with documented acceptance boundaries."
+      ],
+      "scope": "Validated supervised macOS pilot. Second-device behavior included simulation; Windows and Linux acceptance remains open.",
+      "caseSlug": "lab-guide"
+    },
+    {
+      "title": "CyberTex infrastructure and cloud services capstone",
+      "role": "Server lab direction and Design and Standards Cloud Architect",
+      "description": "Led lab direction and evidence organization for virtualization, Windows Server, Active Directory, DNS and DHCP, service health checks, and rollback documentation. Produced team AWS architecture and naming standards, cost and storage decisions, API contracts, least-privilege boundaries, and responsibility and runbook criteria.",
+      "highlights": [
+        "Led lab direction and evidence organization for virtualization, Windows Server, Active Directory, DNS and DHCP, service health checks, and rollback documentation.",
+        "Produced team AWS architecture and naming standards, cost and storage decisions, API contracts, least-privilege boundaries, and responsibility and runbook criteria.",
+        "Coordinated architectural decisions, acceptance criteria, documentation, AI-assisted execution, and teammate contributions."
+      ],
+      "scope": "Architecture and documentation completed, with real lab observations. Final live API integration, team handover, and remaining infrastructure acceptance are separate dependencies.",
       "caseSlug": "cybertex-infrastructure"
     },
     {
-      "title": "AI² Writing Studio and small-business tools",
-      "description": "Directed AI-assisted learning and intake workflows around learner reasoning, input validation, persistent records, and human review.",
-      "scope": "Implemented components and previews; learner acceptance and customer cutover have separate requirements.",
-      "caseSlug": "ai2-learning"
+      "title": "SOHO departmental network simulation",
+      "role": "Network design and presentation",
+      "description": "Developed a Cisco Packet Tracer design with three departmental VLANs, /26 subnet planning, router-on-a-stick routing, and DHCP address planning. Connected network design decisions to documented successful departmental PC-to-gateway ping checks.",
+      "highlights": [
+        "Developed a Cisco Packet Tracer design with three departmental VLANs, /26 subnet planning, router-on-a-stick routing, and DHCP address planning.",
+        "Connected network design decisions to documented successful departmental PC-to-gateway ping checks.",
+        "Used AI assistance to organize the presentation and communicate the intended routing and addressing approach."
+      ],
+      "scope": "Packet Tracer simulation. Gateway checks are documented; full inter-VLAN and DHCP acceptance remains unverified.",
+      "caseSlug": "soho-network"
+    },
+    {
+      "title": "Small business websites and operating tools",
+      "role": "Product discovery and implementation direction",
+      "description": "Led discovery, design, AI-assisted implementation, and local verification for a food-business website with a protected owner workspace and persistent operational records. Directed a dual-service request planner with conditional validation, editable summaries, and tested copy and download controls.",
+      "highlights": [
+        "Led discovery, design, AI-assisted implementation, and local verification for a food-business website with a protected owner workspace and persistent operational records.",
+        "Directed a dual-service request planner with conditional validation, editable summaries, and tested copy and download controls.",
+        "Organized operational needs, inquiry handling, and handover documentation around the business owner journey."
+      ],
+      "scope": "Functioning local previews. Some checks used synthetic records; live integrations, cutover, and client acceptance remain open.",
+      "caseSlug": "business-tools"
+    },
+    {
+      "title": "Nuvara Media",
+      "role": "Editorial and production workflow direction",
+      "description": "Developed editorial direction, programming plans, evidence standards, and release requirements for a private newsroom and local production workflow. Directed AI-assisted implementation of source and rights ledgers, version review, corrections, offline transcription, FFmpeg export, resumable stages, and provider receipts.",
+      "highlights": [
+        "Developed editorial direction, programming plans, evidence standards, and release requirements for a private newsroom and local production workflow.",
+        "Directed AI-assisted implementation of source and rights ledgers, version review, corrections, offline transcription, FFmpeg export, resumable stages, and provider receipts.",
+        "Prepared technical exports and private editorial candidates with review and publication controls."
+      ],
+      "scope": "Private implementation under development. Some provider checks used simulation; public production release remains open.",
+      "caseSlug": "nuvara-media"
+    },
+    {
+      "title": "Research and community planning",
+      "role": "Research direction and technical communication",
+      "description": "Developed source registers, evidence-accountability frameworks, evaluation plans, and AI-assisted drafts across coastal and memory research. Produced planning and pilot packets for education and community proposals and incorporated recipient feedback.",
+      "highlights": [
+        "Developed source registers, evidence-accountability frameworks, evaluation plans, and AI-assisted drafts across coastal and memory research.",
+        "Produced planning and pilot packets for education and community proposals and incorporated recipient feedback.",
+        "Submitted a grant application for a free AI evidence kit and prepared outreach and review materials."
+      ],
+      "scope": "Research drafts, delivered planning materials, proposals, outreach, and a submitted application.",
+      "caseSlug": "research-community"
+    },
+    {
+      "title": "The Crowned One",
+      "role": "Author and independent publication",
+      "description": "Published a 196-page paperback as Brock K. Phillips Sr., examining sports culture, identity, mentorship, and responsibility. Provided authorial direction and personal perspective and directed AI-assisted editing, manuscript organization, print preparation, cover review, and publication preparation.",
+      "highlights": [
+        "Published a 196-page paperback as Brock K. Phillips Sr., examining sports culture, identity, mentorship, and responsibility.",
+        "Provided authorial direction and personal perspective and directed AI-assisted editing, manuscript organization, print preparation, cover review, and publication preparation.",
+        "Released The Crowned One: What We Lost While Worshipping Greatness - A Reflection on Culture, Sports, and Identity with generated cover artwork."
+      ],
+      "scope": "Published paperback. Publication date October 11, 2026.",
+      "caseSlug": "the-crowned-one"
     }
   ],
   "education": [
@@ -88,7 +196,10 @@
       "Record reconciliation",
       "Procedural compliance",
       "Written findings",
-      "Program coordination"
+      "Program coordination",
+      "Confidential information handling",
+      "Corrective guidance",
+      "Technical accuracy review"
     ],
     "Product and AI workflows": [
       "Product direction",
@@ -106,13 +217,30 @@
       "Virtualization",
       "Git",
       "AI-assisted JavaScript / TypeScript / Python projects",
-      "Responsive web delivery"
+      "Responsive web delivery",
+      "VLAN and subnet planning",
+      "Cisco Packet Tracer simulation",
+      "API contracts and input validation",
+      "Storage and rollback documentation"
+    ],
+    "Youth and program operations": [
+      "Sports and fitness activities",
+      "Program scheduling",
+      "Equipment accountability",
+      "Safety monitoring",
+      "Family and staff communication"
     ]
   },
   "training": {
     "recordType": "course_completion",
-    "note": "These records document completed courses through uCertify and Cisco Networking Academy. They do not establish vendor certification exam credentials.",
+    "note": "Training records document course completions. Historical Army and professional-development records describe completed training, while current vendor exam certification or renewal requires separate evidence.",
     "records": [
+      {
+        "title": "Operating Systems Basics",
+        "provider": "Cisco Networking Academy",
+        "date": "2025-11-17",
+        "file": "certificates/files/cisco-operating-systems-basics.pdf"
+      },
       {
         "title": "CompTIA A+ Core 2 (220-1202)",
         "provider": "uCertify",
@@ -188,7 +316,348 @@
       "url": "mailto:brock@nuvaraai.com"
     }
   ],
-  "download": "docs/brock-phillips-sr-resume.pdf",
-  "sourceNote": "Public summary derived from Brock_Phillips_Master_Resume_Updated_2026-10-14.docx, the reviewed project portfolio, and course-completion records.",
-  "publicEmail": "brock@nuvaraai.com"
+  "download": "docs/brock-phillips-sr-master-resume.pdf",
+  "sourceNote": "Career history, the reviewed ten-case project portfolio, degree records and verified course-completion records; public copy excludes personal identifiers and private personnel records.",
+  "publicEmail": "brock@nuvaraai.com",
+  "careerHighlights": [
+    "Perform authorizer duties, checking proposed benefits awards, supporting evidence and notices for accuracy, completeness and procedural compliance before payment.",
+    "Served in the U.S. Army from July 1997 through March 2014. Specialty experience includes 3 years and 1 month in counterintelligence and 13 years and 1 month in utilities equipment repair.",
+    "Direct AI-assisted product development and review across ten documented portfolio cases, including infrastructure labs, web systems, learning tools and a published book.",
+    "Coordinated sports, fitness and youth activities in Department of the Army programs, with scheduling, equipment accountability, safety practices and family communication."
+  ],
+  "careerHighlightDetails": [
+    {
+      "label": "Federal benefits review",
+      "title": "Evidence that supports sound decisions",
+      "description": "Perform authorizer duties, checking proposed benefits awards, supporting evidence and notices for accuracy, completeness and procedural compliance before payment."
+    },
+    {
+      "label": "Military service",
+      "title": "Investigation and operational discipline",
+      "description": "Served in the U.S. Army from July 1997 through March 2014. Specialty experience includes 3 years and 1 month in counterintelligence and 13 years and 1 month in utilities equipment repair."
+    },
+    {
+      "label": "Technical project direction",
+      "title": "Requirements through documented delivery",
+      "description": "Direct AI-assisted product development and review across ten documented portfolio cases, including infrastructure labs, web systems, learning tools and a published book."
+    },
+    {
+      "label": "Youth programs",
+      "title": "Programs built around people and safety",
+      "description": "Coordinated sports, fitness and youth activities in Department of the Army programs, with scheduling, equipment accountability, safety practices and family communication."
+    }
+  ],
+  "masterDownload": "brock-phillips-sr-master-resume.pdf",
+  "shortDownload": "brock-phillips-sr-resume.pdf",
+  "additionalTraining": [
+    {
+      "title": "Counterintelligence Special Agent",
+      "provider": "U.S. Army Intelligence School",
+      "date": "2010-12-09",
+      "category": "Army Leadership and Investigation",
+      "sourceIds": [
+        "army-3c35e351l24435l20"
+      ],
+      "note": ""
+    },
+    {
+      "title": "Counterintelligence Agent Advanced Leader",
+      "provider": "U.S. Army NCO Academy",
+      "date": "2011-07-20",
+      "category": "Army Leadership and Investigation",
+      "sourceIds": [
+        "army-24435l30c45"
+      ],
+      "note": ""
+    },
+    {
+      "title": "Advanced Leader Common Core",
+      "provider": "U.S. Army Sergeant Major Academy",
+      "date": "2013-08-30",
+      "category": "Army Leadership and Investigation",
+      "sourceIds": [
+        "army-600c45dl"
+      ],
+      "note": ""
+    },
+    {
+      "title": "Supervisor Development (SDC)",
+      "provider": "U.S. Army Correspondence Course",
+      "date": "2003-09-30",
+      "category": "Army Leadership and Investigation",
+      "sourceIds": [
+        "army-131f21"
+      ],
+      "note": "JST completion; VMET also records a 2009-2010 period."
+    },
+    {
+      "title": "Structured Self Development III and IV",
+      "provider": "U.S. Army Sergeant Major Academy",
+      "date": "2012-09-27 and 2012-10-01",
+      "category": "Army Leadership and Investigation",
+      "sourceIds": [
+        "army-1250c493dl",
+        "army-1250c494dl"
+      ],
+      "note": ""
+    },
+    {
+      "title": "Local COMSEC Management Software (LCMS) Workstation Operator",
+      "provider": "U.S. Army Signal School",
+      "date": "2009-10-09",
+      "category": "Army Security and Technical Operations",
+      "sourceIds": [
+        "army-4cf59160f39"
+      ],
+      "note": ""
+    },
+    {
+      "title": "Operations Security (OPSEC) Awareness Training",
+      "provider": "U.S. Army AMEDD Correspondence Courses",
+      "date": "2011-09-29",
+      "category": "Army Security and Technical Operations",
+      "sourceIds": [
+        "army-081sdl11mcotsg0001"
+      ],
+      "note": ""
+    },
+    {
+      "title": "Physical security",
+      "provider": "U.S. Army",
+      "date": "OCT 2010 - SEP 2011 reporting period",
+      "category": "Army Security and Technical Operations",
+      "sourceIds": [
+        "army-191g11"
+      ],
+      "note": ""
+    },
+    {
+      "title": "Cisco SWITCH 1.0 coursework",
+      "provider": "U.S. Army",
+      "date": "OCT 2011 - SEP 2012 reporting period",
+      "category": "Army Security and Technical Operations",
+      "sourceIds": [
+        "army-ccicisa01itenus",
+        "army-ccicisa02itenus",
+        "army-ccicisa03itenus",
+        "army-ccicisa04itenus",
+        "army-ccicisa05itenus"
+      ],
+      "note": "Five historical modules cover campus design, VLANs, inter-VLAN routing, spanning tree, and highly available networks."
+    },
+    {
+      "title": "Electronic Technology",
+      "provider": "U.S. Army Correspondence Course",
+      "date": "2003-08-21",
+      "category": "Army Security and Technical Operations",
+      "sourceIds": [
+        "army-093d19"
+      ],
+      "note": ""
+    },
+    {
+      "title": "ABCs and Knowledge Management Synchronizing Course",
+      "provider": "U.S. Army Modeling and Simulation School",
+      "date": "2012-06-17",
+      "category": "Army Operations and Professional Development",
+      "sourceIds": [
+        "army-3gbckmdl"
+      ],
+      "note": ""
+    },
+    {
+      "title": "Processes for managing project communications",
+      "provider": "U.S. Army",
+      "date": "OCT 2011 - SEP 2012 reporting period",
+      "category": "Army Operations and Professional Development",
+      "sourceIds": [
+        "army-proj12a02bsenus"
+      ],
+      "note": ""
+    },
+    {
+      "title": "Composite Risk Management Basic",
+      "provider": "U.S. Army Safety Center",
+      "date": "2011-09-30",
+      "category": "Army Operations and Professional Development",
+      "sourceIds": [
+        "army-2gf97dl"
+      ],
+      "note": ""
+    },
+    {
+      "title": "Commanders Safety Course",
+      "provider": "U.S. Army Safety Center",
+      "date": "2010-01-07",
+      "category": "Army Operations and Professional Development",
+      "sourceIds": [
+        "army-2gf94v31"
+      ],
+      "note": ""
+    },
+    {
+      "title": "Technical Transportation of Hazardous Material",
+      "provider": "U.S. Army Ammunition School",
+      "date": "2013-06-14",
+      "category": "Army Operations and Professional Development",
+      "sourceIds": [
+        "army-ammo62os"
+      ],
+      "note": ""
+    },
+    {
+      "title": "Utilities Equipment Repairer Advanced Leader Course Phases 1 and 2",
+      "provider": "U.S. Army NCO Academy",
+      "date": "2010-09-30",
+      "category": "Army Operations and Professional Development",
+      "sourceIds": [
+        "army-72091c30c45dl",
+        "army-72091c30dl2"
+      ],
+      "note": ""
+    },
+    {
+      "title": "Planning Appropriate Activities",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2015-05-15",
+      "category": "Army Youth Programs and Safety",
+      "sourceIds": [
+        "T1-ACTIV"
+      ],
+      "note": "",
+      "sourceTitle": "Planning Appropriate Activites"
+    },
+    {
+      "title": "Program Management Module 12 Part 1 and Special Needs",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2016-01-19",
+      "category": "Army Youth Programs and Safety",
+      "sourceIds": [
+        "T3-MGMT1"
+      ],
+      "note": "",
+      "sourceTitle": "Mod 12: Prog Mgmt/Pt1:4 Svc Area (2) +SN"
+    },
+    {
+      "title": "Communication Module 6 and Special Needs",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2016-01-19",
+      "category": "Army Youth Programs and Safety",
+      "sourceIds": [
+        "T3-COMM"
+      ],
+      "note": "",
+      "sourceTitle": "Mod 6: Communication (2) + Special Need"
+    },
+    {
+      "title": "Physical Module 4 and Special Needs",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2016-04-20",
+      "category": "Army Youth Programs and Safety",
+      "sourceIds": [
+        "T4-PHYSI"
+      ],
+      "note": "",
+      "sourceTitle": "Mod 4: Physical (2) + Special Needs"
+    },
+    {
+      "title": "Safety Module 1 and Special Needs",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2016-04-20",
+      "category": "Army Youth Programs and Safety",
+      "sourceIds": [
+        "T4-SAFE"
+      ],
+      "note": "",
+      "sourceTitle": "Mod 1: Safe (2) + Special Needs"
+    },
+    {
+      "title": "Families Module 11 and Special Needs",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2016-04-20",
+      "category": "Army Youth Programs and Safety",
+      "sourceIds": [
+        "T4-FAMIL"
+      ],
+      "note": "",
+      "sourceTitle": "Mod 11: Families (2) + Special Needs"
+    },
+    {
+      "title": "Facilitating the Computer Lab",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2016-04-20",
+      "category": "Army Youth Programs and Safety",
+      "sourceIds": [
+        "T4-CMPTR"
+      ],
+      "note": "",
+      "sourceTitle": "Facilitating the Computer Lab (1)"
+    },
+    {
+      "title": "Preventing Abuse in Youth Programs",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2016-01-19",
+      "category": "Army Youth Programs and Safety",
+      "sourceIds": [
+        "T4-ABUSE"
+      ],
+      "note": "",
+      "sourceTitle": "Preventing Abuse in Youth Prog (2)"
+    },
+    {
+      "title": "Parent and Public Relations",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2015-05-13",
+      "category": "Army Youth Programs and Safety",
+      "sourceIds": [
+        "T1-PAREN"
+      ],
+      "note": "",
+      "sourceTitle": "Parent and Public Relations"
+    },
+    {
+      "title": "Safety and Emergency Procedures",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2015-07-13",
+      "category": "Army Youth Programs and Safety",
+      "sourceIds": [
+        "T1-SAFET"
+      ],
+      "note": "",
+      "sourceTitle": "Safety/Emergency Procedures"
+    },
+    {
+      "title": "Child and Adult CPR Renewal",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2015-05-13",
+      "category": "Army Youth Programs and Safety",
+      "sourceIds": [
+        "A-CPR"
+      ],
+      "note": "",
+      "sourceTitle": "Child/Adult CPR Renewal (if applic)"
+    },
+    {
+      "title": "First Aid Renewal",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2015-05-14",
+      "category": "Army Youth Programs and Safety",
+      "sourceIds": [
+        "A-FIRST"
+      ],
+      "note": "",
+      "sourceTitle": "First Aid Renewal (if applic)"
+    },
+    {
+      "title": "Bloodborne Pathogens",
+      "provider": "USAG Italy VMC / Child and Youth Services",
+      "date": "2016-03-22",
+      "category": "Army Youth Programs and Safety",
+      "sourceIds": [
+        "A6-BBP"
+      ],
+      "note": "",
+      "sourceTitle": "Blood Borne Pathogens"
+    }
+  ]
 }

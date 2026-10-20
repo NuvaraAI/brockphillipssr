@@ -259,12 +259,22 @@
     }
   ],
   "training": {
-    "title": "Continued learning. Documented completion.",
-    "description": "Eight completed courses through uCertify and Cisco Networking Academy, spanning hardware, Linux, security, servers, and cloud fundamentals.",
+    "title": "Experience grows. The learning continues.",
+    "description": "Military training, security, youth sports, professional development, and current technology study — with records behind the experience.",
     "credentialNote": "These records document course completion. Vendor certification exams and professional credentials are separate.",
-    "sharingNote": "Certificate identifiers are removed from the shared copies. Issuer, recipient, course title, and completion date remain visible."
+    "sharingNote": "Personal identifiers and private details are removed from the public records. Course titles, issuers, and completion information are retained."
   },
   "certificates": [
+    {
+      "title": "Operating Systems Basics",
+      "provider": "Cisco Networking Academy",
+      "date": "2025-11-17",
+      "recipient": "Brock Phillips",
+      "credentialType": "course_completion",
+      "file": "certificates/files/cisco-operating-systems-basics.pdf",
+      "preview": "certificates/previews/cisco-operating-systems-basics.png",
+      "sha256": "2788e699304673cda9f58f4e2b86cbee318301d6e54cba63505ca26e723e9901"
+    },
     {
       "title": "CompTIA A+ Core 2 (220-1202)",
       "date": "2025-12-23",
@@ -401,5 +411,5 @@
     "website": "https://nuvaraai.com/",
     "link": "https://nuvaraai.com/contact/"
   },
-  "footerNote": "Project evidence reviewed October 14, 2026. Case studies describe dated results and current scope."
+  "footerNote": "Résumé and training updated October 19, 2026. Project evidence reviewed October 14, 2026; case studies retain their dated scope."
 }

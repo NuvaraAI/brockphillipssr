@@ -82,3 +82,21 @@ if (certificateData && certificateDialog && typeof certificateDialog.showModal =
 } else {
   document.querySelectorAll('[data-certificate-preview]').forEach(button => { button.hidden = true; });
 }
+
+const trainingSearch = document.querySelector('#training-search');
+if (trainingSearch) {
+  const records = [...document.querySelectorAll('[data-training-record]')];
+  trainingSearch.addEventListener('input', () => {
+    const query = trainingSearch.value.trim().toLocaleLowerCase();
+    let visible = 0;
+    records.forEach(record => {
+      record.hidden = !record.dataset.search.includes(query);
+      if (!record.hidden) visible++;
+    });
+    document.querySelectorAll('[data-training-group]').forEach(group => {
+      group.hidden = ![...group.querySelectorAll('[data-training-record]')].some(record => !record.hidden);
+    });
+    document.querySelector('#training-count').textContent = `${visible} of ${records.length} training entries`;
+    document.querySelector('#training-empty').hidden = visible !== 0;
+  });
+}
